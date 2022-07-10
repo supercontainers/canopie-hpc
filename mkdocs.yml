@@ -1,0 +1,34 @@
+site_name: CANOPIE-HPC
+repo_name: supercontainers/canopie-hpc
+repo_url: https://github.com/supercontainers/canopie-hpc 
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    primary: deep orange
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.sticky
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+extra:
+  social:
+    - icon: fontawesome/brands/slack
+      link: http://bit.ly/hpccslack
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - Call for Papers: cfp.md
+  - Topics: topics.md
+  - Organizers: organizers.md
+  - Program: program.md
+  - Previous Workshops:
+    - 2022: prev/2022/index.md
+    - SC21: prev/2021/index.md
+    - SC20: prev/2020/index.md
+    - SC19: prev/2019/index.md
