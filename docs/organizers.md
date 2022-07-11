@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 ## STEERING COMMITTEE
 * Andrew Younge – Sandia National Laboratories
 * Shane Canon – Lawrence Berkeley National Laboratory

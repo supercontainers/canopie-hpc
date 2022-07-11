@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 ## 3rd International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC
 
 HPC-Containers Slack channel: http://bit.ly/hpccslack

@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 <p style="text-align: center;">
 <h2>2nd International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC</h2>
 </p>
