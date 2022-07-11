@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Home
 
 ## 4th International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC
