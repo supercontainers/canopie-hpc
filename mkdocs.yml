@@ -30,4 +30,10 @@ nav:
   - Previous Workshops:
     - SC21: prev/2021/index.md
     - SC20: prev/2020/index.md
-    - SC19: prev/2019/index.md
+    - SC19:
+      - Home: prev/2019/index.md
+      - Call for Papers: prev/2019/cfp.md
+      - Organizers: prev/2019/org.md
+      - Program: prev/2019/program.md
+      - Topics: prev/2019/topic.md
+
