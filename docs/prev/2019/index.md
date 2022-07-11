@@ -8,7 +8,7 @@ Monday, 18 November 2019 2:00 pm – 5:30pm, Room 704 – 706
 
 **UPDATED: SUBMISSION DEADLINE EXTENDED TO SEPTEMBER 9TH **
 
-![SC19](../../images/sc20_color_black_hor@4x-300x122.png)
+![SC19](../../images/sc19-300x130.png)
 
 ![IEEE](../../images/ieee.png) ![TCHPC](../../images/tchpc_logo_cmyk-300x84.png)
 
