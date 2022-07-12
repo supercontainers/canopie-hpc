@@ -12,7 +12,7 @@ HPC-Containers Slack channel: [Join Link](http://bit.ly/hpccslack)
 
 CANOPIE HPC Workshop @ SC22
 
-Sunday, November 14th, 2022 at 9am – 5:30pm CST
+Monday, November 14th, 2022 at 9am – 5:30pm CST
 
 Held in conjunction with SC22: The International Conference for High Performance Computing, Networking, Storage and Analysis.
 
