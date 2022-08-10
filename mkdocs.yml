@@ -2,6 +2,7 @@ site_name: CANOPIE-HPC
 repo_name: supercontainers/canopie-hpc
 repo_url: https://github.com/supercontainers/canopie-hpc
 edit_uri: edit/main/docs/
+site_url: https://canopie-hpc.org/
 theme:
   name: material
   custom_dir: overrides
