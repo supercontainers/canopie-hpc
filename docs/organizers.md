@@ -19,7 +19,7 @@ hide:
 * Claudia Misale, IBM research
 * Siew Hoon Leong, Swiss National Supercomputing Centre (CSCS) 
 * Paul Bryant, New Mexico Consortium
-* Francois Diakhate, French Alternative Energies and Atomic Energy Commission, Directorate of Military Applications (CEA-DAM)
+* Francois Diakhate, CEA-DAM
 * Ivo Jimenez, University of California, Santa Cruz; University of Sonora
 * John Lange, University of Pittsburg
 * CJ Newburn, Nvidia Corporation
@@ -27,5 +27,5 @@ hide:
 * Cory Snavely, National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley National Laboratory
 * Jhonathan Sparks, HPE
 * Joe Stubbs, Texas Advanced Computing Center (TACC)
-* Sara Willis, The UNiversity of Arizona
+* Sara Willis, The University of Arizona
 * Laurie Stephey, NERSC, Berkeley Lab
