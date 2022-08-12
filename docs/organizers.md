@@ -28,4 +28,4 @@ hide:
 * Jhonathan Sparks, HPE
 * Joe Stubbs, Texas Advanced Computing Center (TACC)
 * Sara Willis, The UNiversity of Arizona
-
+* Laurie Stephey, NERSC, Berkeley Lab
