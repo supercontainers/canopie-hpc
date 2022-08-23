@@ -27,5 +27,5 @@ hide:
 * Cory Snavely, National Energy Research Scientific Computing Center (NERSC), Lawrence Berkeley National Laboratory
 * Jhonathan Sparks, HPE
 * Joe Stubbs, Texas Advanced Computing Center (TACC)
-* Sara Willis, The University of Arizona
 * Laurie Stephey, NERSC, Berkeley Lab
+* Anastasios Nanos, Bubificus Ltd
