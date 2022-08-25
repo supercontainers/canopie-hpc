@@ -15,8 +15,10 @@ CANOPIE-HPC is a workshop focusing on containerization, virtualization, and othe
 
 ### Important Dates
 
+*Submission close extended to Monday 29 EOD AOE*
+
 * Submission opens:    June 15, 2022
-* Submission closes:    August 26, 2022
+* Submission closes:    August 29, 2022
 * Decisions:    September 9, 2022
 * Camera ready due:    October 8, 2022
 * Workshop date:    November 14, 2022
