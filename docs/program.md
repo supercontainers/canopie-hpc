@@ -38,15 +38,24 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         <td>Richardo Rocha (CERN)</td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="3">09:15</td>
-        <td style="vertical-align:top" rowspan="3">45min</td>
+        <td style="vertical-align:top" rowspan="2">09:15</td>
+        <td style="vertical-align:top" rowspan="2">30min</td>
         <td colspan="3">Paper Session #1</td>
     </tr>
     <tr>
         <td colspan="2">Paper1: Multiscale scientific workflows on high-performance hybrid cloud</td>
     </tr>
     <tr>
-        <td colspan="2">Paper2: K8s</td>
+        <td style="vertical-align:top" rowspan="3">09:45</td>
+        <td style="vertical-align:top" rowspan="3">15min</td>
+        <td colspan="3"><b>Lighting Talks #1</b></td>
+    </tr>
+    <tr>
+        <td colspan="2">Containerized MPI and GUI Applications on HPC in the Cloud with Workload Manager
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">A Case of Multi-Resource Fairness for Serverless Workflows</td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>10:00AM</td>
@@ -97,15 +106,17 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="5">3:30PM</td>
-        <td style="vertical-align:top" rowspan="5">30min</td>
-        <td colspan="2"><b>Lighing talks</b></td>
+        <td style="vertical-align:top" rowspan="2">3:30AM</td>
+        <td style="vertical-align:top" rowspan="2">30min</td>
+        <td colspan="2"><b>Paper Session #4</b></td>
     </tr>
     <tr>
-        <td colspan="2">Containerized MPI and GUI Applications on HPC in the Cloud with Workload Manager</td>
-    </tr> 
+        <td colspan="2">Paper6: K8s</td>
+    </tr>
     <tr>
-        <td colspan="2">A Case of Multi-Resource Fairness for Serverless Workflows</td>
+        <td style="vertical-align:top" rowspan="3">4:00PM</td>
+        <td style="vertical-align:top" rowspan="3">30min</td>
+        <td colspan="2"><b>Lighing talks</b></td>
     </tr>
     <tr>
         <td colspan="2">MetaHub - A Smart Registry for HPC</td>
@@ -114,8 +125,8 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         <td colspan="2">Apptainer Without Setuid</td>
     </tr>
     <tr>
-        <td>4:00PM</td>
-        <td>60min</td>
+        <td>4:30PM</td>
+        <td>30min</td>
         <td colspan="2">Concluding Panel / Q&A</td>
     </tr>
     <tr style="background-color:#A9A9A9">
