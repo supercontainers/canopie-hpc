@@ -38,33 +38,15 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         <td>Richardo Rocha (CERN)</td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="4">9:15PM</td>
-        <td style="vertical-align:top" rowspan="4">10min</td>
-        <td colspan="2"><b>Ligthing ReCap Talks</b></td>
-    </tr>
-    <tr>
-        <td>ReCap: Runtimes/Engines</td>
-        <td>Alberto (not confirmed)</td>
-        <!-- Runtimes/Engines are the workhorses in HPC implementing a lot of heavy lifting. Snapshot a container image onto a shared FS for easy start, wiring up GPU/NIC, MPI, make sure POSIX is honored. Quick history lessons-->
-    </tr>
-    <tr>
-        <td>ReCap: Image Build</td>
-        <td>Andrew (not confirmed)</td>
-        <!-- Building images is where the magic happens in the back. Artefact might be a Dockerfile, OCI image for distribution and prepared snapshot (SIF?) for fasttracking access on a side. Experience with building for ARM/X86 using E4S on Atlas (was it Atlas?) -->
-    </tr>
-    <tr>
-        <td>ReCap: Scheduling</td>
-        <td>Christian Kniep</td>
-        <!-- Quick PSA that you can use containers with SLURM (as we well see throughout). K8s is another option (as we'll also see).
-        Challenges placing distributed jobs topo-aware with traditional contianer schedulers as they are not build for that. -->
-    </tr>
-    <tr>
-        <td style="vertical-align:top" rowspan="2">09:25</td>
-        <td style="vertical-align:top" rowspan="2">30min</td>
+        <td style="vertical-align:top" rowspan="2">09:15</td>
+        <td style="vertical-align:top" rowspan="2">45min</td>
         <td colspan="2">Paper Session #1</td>
     </tr>
     <tr>
         <td colspan="2">Paper1: Multiscale scientific workflows on high-performance hybrid cloud</td>
+    </tr>
+    <tr>
+        <td colspan="2">Paper2: K8s</td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>10:00AM</td>
@@ -74,16 +56,16 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
     <tr>
         <td style="vertical-align:top" rowspan="4">10:30AM</td>
         <td style="vertical-align:top" rowspan="4">90min</td>
-        <td colspan="2">Paper Session #2</td>
+        <td colspan="2"><b>Paper Session #2</b></td>
     </tr>
     <tr>
-        <td colspan="2">Paper2: K8s paper</td>
+        <td colspan="2">Paper3: Complete Provenance for Application Experiments with Containers and Hardware Interface Metadata</td>
     </tr>
     <tr>
-        <td colspan="2">Paper3: Scaling Podman on Perlmutter</td>
+        <td colspan="2">Paper4: Scaling Podman on Perlmutter</td>
     </tr>
     <tr>
-        <td colspan="2">Paper4: PMIx paper</td>
+        <td colspan="2">Paper5: A separated model for running rootless, unprivileged PMIx-enabled HPC applications in Kubernetes</td>
     </tr>
     <!--<tr>
         <td>11:45AM</td>
@@ -98,16 +80,16 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
     <tr>
         <td style="vertical-align:top">1:30PM</td>
         <td>45min</td>
-        <td>Keynote: Bioinformatic workflows</td>
+        <td><b>Keynote</b>: Bioinformatic workflows</td>
         <td>Paolo Di Tommaso</td>
     </tr>
     <tr>
-        <td style="vertical-align:top"  rowspan="3">2:15PM</td>
-        <td style="vertical-align:top"  rowspan="3">45min</td>
+        <td style="vertical-align:top"  rowspan="2">2:15PM</td>
+        <td style="vertical-align:top"  rowspan="2">45min</td>
         <td colspan="2">Paper Session #3</td>
     </tr>    
     <tr>
-        <td colspan="2">Paper5: Libfabric-based Injection Solutions for Portable Containerized MPI Applications</td>
+        <td colspan="2">Paper6: Libfabric-based Injection Solutions for Portable Containerized MPI Applications</td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>3:00PM</td>
@@ -115,12 +97,9 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="6">3:30PM</td>
-        <td style="vertical-align:top" rowspan="6">30min</td>
+        <td style="vertical-align:top" rowspan="5">3:30PM</td>
+        <td style="vertical-align:top" rowspan="5">30min</td>
         <td colspan="2"><b>Lighing talks</b></td>
-    </tr>
-    <tr>
-        <td colspan="2">Complete Provenance for Application Experiments with Containers and Hardware Interface Metadata</td>
     </tr>
     <tr>
         <td colspan="2">Containerized MPI and GUI Applications on HPC in the Cloud with Workload Manager</td>
