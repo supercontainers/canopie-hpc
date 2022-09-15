@@ -39,7 +39,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
     </tr>
     <tr>
         <td style="vertical-align:top" rowspan="4">9:15PM</td>
-        <td style="vertical-align:top" rowspan="4">15min</td>
+        <td style="vertical-align:top" rowspan="4">10min</td>
         <td colspan="2"><b>Ligthing ReCap Talks</b></td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         Challenges placing distributed jobs topo-aware with traditional contianer schedulers as they are not build for that. -->
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="2">09:30</td>
+        <td style="vertical-align:top" rowspan="2">09:25</td>
         <td style="vertical-align:top" rowspan="2">30min</td>
         <td colspan="2">Paper Session #1</td>
     </tr>
@@ -85,11 +85,11 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
     <tr>
         <td colspan="2">Paper4: PMIx paper</td>
     </tr>
-    <tr>
+    <!--<tr>
         <td>11:45AM</td>
         <td>15min</td>
         <td colspan="2">Morning Q&A</td>
-    </tr>
+    </tr>-->
     <tr style="background-color:#A9A9A9">
         <td>12:00PM</td>
         <td>90min</td>
@@ -107,10 +107,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         <td colspan="2">Paper Session #3</td>
     </tr>    
     <tr>
-        <td colspan="2">Paper5: ABC</td>
-    </tr>
-    <tr>
-        <td colspan="2">Paper6: Libfabric-based Injection Solutions for Portable Containerized MPI Applications</td>
+        <td colspan="2">Paper5: Libfabric-based Injection Solutions for Portable Containerized MPI Applications</td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>3:00PM</td>
