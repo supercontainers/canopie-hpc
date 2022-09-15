@@ -25,21 +25,22 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
   </tr>
 </thead>
 <tbody>
-    <tr>
-        <td style="vertical-align:top" rowspan="2">08:30</td>
+    <tr style="background-color:#A9A9A9">
+        <td>08:30</td>
         <td>5min</td>
         <td>Workshop / Speaker Introduction</td>
         <td>Session Shares (Shane/Andrew)</td>
     </tr>
     <tr>
+        <td>8:35AM</td>
         <td>45min</td>
-        <td>Keynote: Kubernetes at CERN</td>
+        <td><b>Keynote</b>: Kubernetes at CERN</td>
         <td>Richardo Rocha (CERN)</td>
     </tr>
     <tr>
         <td style="vertical-align:top" rowspan="2">09:15</td>
         <td style="vertical-align:top" rowspan="2">30min</td>
-        <td colspan="3">Paper Session #1</td>
+        <td colspan="3"><b>Paper Session #1</b></td>
     </tr>
     <tr>
         <td colspan="2">Paper1: Multiscale scientific workflows on high-performance hybrid cloud</td>
@@ -96,7 +97,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     <tr>
         <td style="vertical-align:top"  rowspan="2">2:15PM</td>
         <td style="vertical-align:top"  rowspan="2">45min</td>
-        <td colspan="2">Paper Session #3</td>
+        <td colspan="2"><b>Paper Session #3</b></td>
     </tr>    
     <tr>
         <td>Paper6: Libfabric-based Injection Solutions for Portable Containerized MPI Applications</td>
