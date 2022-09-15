@@ -38,9 +38,9 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         <td>Richardo Rocha (CERN)</td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="2">09:15</td>
-        <td style="vertical-align:top" rowspan="2">45min</td>
-        <td colspan="2">Paper Session #1</td>
+        <td style="vertical-align:top" rowspan="3">09:15</td>
+        <td style="vertical-align:top" rowspan="3">45min</td>
+        <td colspan="3">Paper Session #1</td>
     </tr>
     <tr>
         <td colspan="2">Paper1: Multiscale scientific workflows on high-performance hybrid cloud</td>
