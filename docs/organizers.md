@@ -9,7 +9,7 @@ hide:
 
 ## PROGRAM CHAIR
 * Carlos Eduardo Arango Gutierrez, Red Hat, Inc.
-* Christian kniep, QNIB solutions.
+* Christian Kniep, QNIB Solutions
 
 ## PROGRAM CO-CHAIR
 * Shane Canon, Lawrence Berkeley National Lab
