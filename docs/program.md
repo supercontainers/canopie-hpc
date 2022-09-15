@@ -13,7 +13,7 @@ Sunday, November 14th, 2022
 
 ## Agenda
 
-We plan to have a combination of Invited Speakers, Research Paper Presentations and Panel sessions.
+We plan to have a combination of Invited Speakers, Research Paper Presentations, Lighting Talks, and Panel sessions.
 
 <table>
 <thead>
@@ -70,10 +70,12 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         <td colspan="2">Paper3: Complete Provenance for Application Experiments with Containers and Hardware Interface Metadata</td>
     </tr>
     <tr>
-        <td colspan="2">Paper4: Scaling Podman on Perlmutter</td>
+        <td>Paper4: Scaling Podman on Perlmutter</td>
+        <td>Shane Canon	(LLNL)</td>
     </tr>
     <tr>
-        <td colspan="2">Paper5: A separated model for running rootless, unprivileged PMIx-enabled HPC applications in Kubernetes</td>
+        <td>Paper5: A separated model for running rootless, unprivileged PMIx-enabled HPC applications in Kubernetes</td>
+        <td>Josh Hursey (IBM)</td> 
     </tr>
     <!--<tr>
         <td>11:45AM</td>
@@ -97,7 +99,8 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         <td colspan="2">Paper Session #3</td>
     </tr>    
     <tr>
-        <td colspan="2">Paper6: Libfabric-based Injection Solutions for Portable Containerized MPI Applications</td>
+        <td>Paper6: Libfabric-based Injection Solutions for Portable Containerized MPI Applications</td>
+        <td>Alberto Madonna (CSCS)</td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>3:00PM</td>
@@ -118,7 +121,8 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         <td colspan="2"><b>Lighing talks</b></td>
     </tr>
     <tr>
-        <td colspan="2">MetaHub - A Smart Registry for HPC</td>
+        <td>MetaHub - A Smart Registry for HPC</td>
+        <td>Christian Kniep (QNIB Solutions)</td>
     </tr> 
     <tr>
         <td colspan="2">Apptainer Without Setuid</td>
