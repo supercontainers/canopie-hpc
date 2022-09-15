@@ -30,7 +30,6 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations 
         <td>5min</td>
         <td>Workshop / Speaker Introduction</td>
         <td>Session Shares (Shane/Andrew)</td>
-        <td></td>
     </tr>
     <tr>
         <td>45min</td>
