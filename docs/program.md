@@ -5,7 +5,7 @@ hide:
 ---
 
 ## CANOPIE-HPC 2022 Workshop Program
-Sunday, November 14th, 2022
+Monday, November 14th, 2022
 8:30am – 5:00pm CST
 
 ** Note all times list CENTRAL TIME (UTC–6) **
