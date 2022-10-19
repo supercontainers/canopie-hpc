@@ -114,7 +114,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td colspan="2"><b>Paper Session #4</b></td>
     </tr>
     <tr>
-        <td colspan="2">Paper6: K8s</td>
+        <td colspan="2">Paper6: One Step Closer to Converged Computing: Achieving Scalability with Cloud-Native HPC</td>
     </tr>
     <tr>
         <td style="vertical-align:top" rowspan="3">4:00PM</td>
