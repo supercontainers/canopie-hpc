@@ -46,16 +46,13 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td colspan="2">Paper1: Multiscale scientific workflows on high-performance hybrid cloud</td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="3">09:45</td>
-        <td style="vertical-align:top" rowspan="3">15min</td>
+        <td style="vertical-align:top" rowspan="2">09:45</td>
+        <td style="vertical-align:top" rowspan="2">15min</td>
         <td colspan="3"><b>Lighting Talks #1</b></td>
     </tr>
     <tr>
         <td colspan="2">Containerized MPI and GUI Applications on HPC in the Cloud with Workload Manager
         </td>
-    </tr>
-    <tr>
-        <td colspan="2">A Case of Multi-Resource Fairness for Serverless Workflows</td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>10:00AM</td>
@@ -78,11 +75,6 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td>Paper5: A separated model for running rootless, unprivileged PMIx-enabled HPC applications in Kubernetes</td>
         <td>Josh Hursey (IBM)</td> 
     </tr>
-    <!--<tr>
-        <td>11:45AM</td>
-        <td>15min</td>
-        <td colspan="2">Morning Q&A</td>
-    </tr>-->
     <tr style="background-color:#A9A9A9">
         <td>12:00PM</td>
         <td>90min</td>
@@ -114,7 +106,8 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td colspan="2"><b>Paper Session #4</b></td>
     </tr>
     <tr>
-        <td colspan="2">Paper7: One Step Closer to Converged Computing: Achieving Scalability with Cloud-Native HPC</td>
+        <td>Paper6: One Step Closer to Converged Computing: Achieving Scalability with Cloud-Native HPC</td>
+        <td>Eduardo Arango (NVIDIA)</td>
     </tr>
     <tr>
         <td style="vertical-align:top" rowspan="3">4:00PM</td>
@@ -126,7 +119,8 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td>Christian Kniep (QNIB Solutions)</td>
     </tr> 
     <tr>
-        <td colspan="2">Apptainer Without Setuid</td>
+        <td>Apptainer Without Setuid</td>
+        <td>David Dykstra (Fermi NL)
     </tr>
     <tr>
         <td>4:30PM</td>
