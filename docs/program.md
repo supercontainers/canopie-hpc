@@ -40,7 +40,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td>virt</td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="2">09:10</td>
+        <td style="vertical-align:top" rowspan="2">09:20</td>
         <td style="vertical-align:top" rowspan="2">30min</td>
         <td colspan="4"><b>Paper Session #1</b></td>
     </tr>
@@ -50,8 +50,8 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td></td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="3">09:40</td>
-        <td style="vertical-align:top" rowspan="3">20min</td>
+        <td style="vertical-align:top" rowspan="3">09:50</td>
+        <td style="vertical-align:top" rowspan="3">10min</td>
         <td colspan="4"><b>Lighting Talks #1</b></td>
     </tr>
     <tr>
@@ -74,17 +74,17 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td colspan="3"><b>Paper Session #2</b></td>
     </tr>
     <tr>
-        <td>Paper3: Complete Provenance for Application Experiments with Containers and Hardware Interface Metadata</td>
+        <td>Paper2: Complete Provenance for Application Experiments with Containers and Hardware Interface Metadata</td>
         <td>Quincy Wofford (LANL)</td>
         <td></td>
     </tr>
     <tr>
-        <td>Paper4: Scaling Podman on Perlmutter</td>
+        <td>Paper3: Scaling Podman on Perlmutter</td>
         <td>Laurie A. Stephey (LBNL)</td>
         <td></td>
     </tr>
     <tr>
-        <td>Paper5: A separated model for running rootless, unprivileged PMIx-enabled HPC applications in Kubernetes</td>
+        <td>Paper4: A separated model for running rootless, unprivileged PMIx-enabled HPC applications in Kubernetes</td>
         <td>Joshua Hursey (IBM)</td>
         <td></td>
     </tr>
@@ -121,7 +121,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td colspan="3"><b>Paper Session #3</b></td>
     </tr>
     <tr>
-        <td>Paper6: Libfabric-based Injection Solutions for Portable Containerized MPI Applications</td>
+        <td>Paper5: Libfabric-based Injection Solutions for Portable Containerized MPI Applications</td>
         <td>Alberto Madonna (CSCS)</td>
         <td>phy</td>
     </tr>
