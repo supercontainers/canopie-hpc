@@ -40,7 +40,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td>virt</td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="2">09:10</td>
+        <td style="vertical-align:top" rowspan="2">09:20</td>
         <td style="vertical-align:top" rowspan="2">30min</td>
         <td colspan="4"><b>Paper Session #1</b></td>
     </tr>
@@ -50,13 +50,18 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td></td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="2">09:40</td>
-        <td style="vertical-align:top" rowspan="2">20min</td>
+        <td style="vertical-align:top" rowspan="3">09:50</td>
+        <td style="vertical-align:top" rowspan="3">10min</td>
         <td colspan="4"><b>Lighting Talks #1</b></td>
     </tr>
     <tr>
         <td colspan="2">Containerized MPI and GUI Applications on HPC in the Cloud with Workload Manager</td>
         <td></td>
+    </tr>
+    <tr>
+        <td>Slurm &hearts; Containers</td>
+        <td>Tim Wickberg (SchedMD)</td>
+        <td>phy</td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>10:00AM</td>
@@ -69,17 +74,17 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td colspan="3"><b>Paper Session #2</b></td>
     </tr>
     <tr>
-        <td>Paper3: Complete Provenance for Application Experiments with Containers and Hardware Interface Metadata</td>
+        <td>Paper2: Complete Provenance for Application Experiments with Containers and Hardware Interface Metadata</td>
         <td>Quincy Wofford (LANL)</td>
         <td></td>
     </tr>
     <tr>
-        <td>Paper4: Scaling Podman on Perlmutter</td>
+        <td>Paper3: Scaling Podman on Perlmutter</td>
         <td>Laurie A. Stephey (LBNL)</td>
         <td></td>
     </tr>
     <tr>
-        <td>Paper5: A separated model for running rootless, unprivileged PMIx-enabled HPC applications in Kubernetes</td>
+        <td>Paper4: A separated model for running rootless, unprivileged PMIx-enabled HPC applications in Kubernetes</td>
         <td>Joshua Hursey (IBM)</td>
         <td></td>
     </tr>
@@ -96,8 +101,8 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td></td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="2">3:00PM</td>
-        <td style="vertical-align:top" rowspan="2">15min</td>
+        <td style="vertical-align:top" rowspan="3">2:45PM</td>
+        <td style="vertical-align:top" rowspan="3">15min</td>
         <td colspan="3"><b>Lighing talk</b></td>
     </tr>
     <tr>
@@ -106,12 +111,17 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td>phy</td>
     </tr>
     <tr>
-        <td style="vertical-align:top"  rowspan="2">2:15PM</td>
+        <td>Sifting through SIFs with Syft</td>
+        <td>Adam Hughes (Sylabs Inc.)</td>
+        <td>phy</td>
+    </tr>
+    <tr>
+        <td style="vertical-align:top"  rowspan="2">3:00PM</td>
         <td style="vertical-align:top"  rowspan="2">45min</td>
         <td colspan="3"><b>Paper Session #3</b></td>
     </tr>
     <tr>
-        <td>Paper6: Libfabric-based Injection Solutions for Portable Containerized MPI Applications</td>
+        <td>Paper5: Libfabric-based Injection Solutions for Portable Containerized MPI Applications</td>
         <td>Alberto Madonna (CSCS)</td>
         <td>phy</td>
     </tr>
