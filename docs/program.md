@@ -59,8 +59,8 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td></td>
     </tr>
     <tr>
-        <td>Slurm &hearts; Containers</td>
-        <td>Tim Wickberg (SchedMD)</td>
+        <td style="vertical-align:top" >Slurm &hearts; Containers</td>
+        <td style="vertical-align:top" >Tim Wickberg (SchedMD)</td>
         <td>phy</td>
     </tr>
     <tr style="background-color:#A9A9A9">
@@ -95,13 +95,13 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     </tr>
     <tr>
         <td style="vertical-align:top">1:30PM</td>
-        <td>45min</td>
-        <td><b>Keynote</b>: Bioinformatic workflows</td>
-        <td>Ben Sherman (SeqeraLabs)</td>
+        <td style="vertical-align:top">45min</td>
+        <td style="vertical-align:top"><b>Keynote</b>: Bioinformatic workflows</td>
+        <td style="vertical-align:top">Ben Sherman (SeqeraLabs)</td>
         <td></td>
     </tr>
     <tr>
-        <td style="vertical-align:top" rowspan="3">2:45PM</td>
+        <td style="vertical-align:top" rowspan="3">2:15PM</td>
         <td style="vertical-align:top" rowspan="3">15min</td>
         <td colspan="3"><b>Lighing talk</b></td>
     </tr>
@@ -116,8 +116,8 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td>phy</td>
     </tr>
     <tr>
-        <td style="vertical-align:top"  rowspan="2">3:00PM</td>
-        <td style="vertical-align:top"  rowspan="2">45min</td>
+        <td style="vertical-align:top"  rowspan="2">2:30PM</td>
+        <td style="vertical-align:top"  rowspan="2">30min</td>
         <td colspan="3"><b>Paper Session #3</b></td>
     </tr>
     <tr>
