@@ -50,26 +50,18 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td></td>
     </tr>
     <tr>
-<<<<<<< HEAD
-        <td style="vertical-align:top" rowspan="2">09:40</td>
-        <td style="vertical-align:top" rowspan="2">20min</td>
-=======
         <td style="vertical-align:top" rowspan="3">09:40</td>
         <td style="vertical-align:top" rowspan="3">20min</td>
->>>>>>> 5cdf756 (add nathan and Adam)
         <td colspan="4"><b>Lighting Talks #1</b></td>
     </tr>
     <tr>
         <td colspan="2">Containerized MPI and GUI Applications on HPC in the Cloud with Workload Manager</td>
         <td></td>
-<<<<<<< HEAD
-=======
     </tr>
     <tr>
         <td>scrun with OCI Containers</td>
         <td>Nathan Rini (SchedMD)</td>
         <td>phy</td>
->>>>>>> 5cdf756 (add nathan and Adam)
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>10:00AM</td>
@@ -107,19 +99,6 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td><b>Keynote</b>: Bioinformatic workflows</td>
         <td>Ben Sherman (SeqeraLabs)</td>
         <td></td>
-<<<<<<< HEAD
-    </tr>
-    <tr>
-        <td style="vertical-align:top" rowspan="2">3:00PM</td>
-        <td style="vertical-align:top" rowspan="2">15min</td>
-        <td colspan="3"><b>Lighing talk</b></td>
-    </tr>
-    <tr>
-        <td>Apptainer Without Setuid</td>
-        <td>David Dykstra (Fermi NL)</td>
-        <td>phy</td>
-=======
->>>>>>> 5cdf756 (add nathan and Adam)
     </tr>
     <tr>
         <td style="vertical-align:top" rowspan="3">2:45PM</td>
