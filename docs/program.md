@@ -59,8 +59,8 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td></td>
     </tr>
     <tr>
-        <td>scrun with OCI Containers</td>
-        <td>Nathan Rini (SchedMD)</td>
+        <td>Slurm &hearts; Containers</td>
+        <td>Tim Wickberg (SchedMD)</td>
         <td>phy</td>
     </tr>
     <tr style="background-color:#A9A9A9">
