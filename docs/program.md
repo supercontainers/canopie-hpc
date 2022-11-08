@@ -54,9 +54,10 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td style="vertical-align:top" rowspan="3">10min</td>
         <td colspan="4"><b>Lighting Talks #1</b></td>
     </tr>
-    <tr>
-        <td colspan="2">Containerized MPI and GUI Applications on HPC in the Cloud with Workload Manager</td>
-        <td></td>
+     <tr>
+        <td style="vertical-align:top">Why Annotations?</td>
+        <td>Bill Sparks (HPE)</td>
+        <td>phy</td>
     </tr>
     <tr>
         <td style="vertical-align:top" >Slurm &hearts; Containers</td>
