@@ -97,7 +97,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     <tr>
         <td style="vertical-align:top">1:30PM</td>
         <td style="vertical-align:top">45min</td>
-        <td style="vertical-align:top"><b>Keynote</b>: Bioinformatic workflows</td>
+        <td style="vertical-align:top"><b>Keynote</b>: Rethinking containers for cloud native pipelines </td>
         <td style="vertical-align:top">Ben Sherman (SeqeraLabs)</td>
         <td></td>
     </tr>
