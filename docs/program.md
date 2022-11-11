@@ -13,7 +13,7 @@ Monday, November 14th, 2022
 
 ## Agenda
 
-We plan to have a combination of Invited Speakers, Research Paper Presentations, Lighting Talks, and Panel sessions.
+We plan to have a combination of Invited Speakers, Research Paper Presentations, Lightning Talks, and Panel sessions.
 
 <table>
 <thead>
@@ -52,7 +52,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     <tr>
         <td style="vertical-align:top" rowspan="3">09:50</td>
         <td style="vertical-align:top" rowspan="3">10min</td>
-        <td colspan="4"><b>Lighting Talks #1</b></td>
+        <td colspan="4"><b>Lightning Talks #1</b></td>
     </tr>
      <tr>
         <td style="vertical-align:top">Why Annotations?</td>
@@ -104,11 +104,11 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     <tr>
         <td style="vertical-align:top" rowspan="3">2:15PM</td>
         <td style="vertical-align:top" rowspan="3">15min</td>
-        <td colspan="3"><b>Lighing talk</b></td>
+        <td colspan="3"><b>Lightning talks</b></td>
     </tr>
     <tr>
         <td>Apptainer Without Setuid</td>
-        <td>David Dykstra (Fermi NL)</td>
+        <td>David Dykstra (Fermi NAL)</td>
         <td>phy</td>
     </tr>
     <tr>
@@ -144,7 +144,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     <tr>
         <td style="vertical-align:top" rowspan="2">4:00PM</td>
         <td style="vertical-align:top" rowspan="2">10min</td>
-        <td colspan="3"><b>Lighing talk</b></td>
+        <td colspan="3"><b>Lightning talk</b></td>
     </tr>
     <tr>
         <td>MetaHub - A Smart Registry for HPC</td>
