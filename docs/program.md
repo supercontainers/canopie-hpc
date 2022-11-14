@@ -138,7 +138,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     </tr>
     <tr>
         <td>Paper6: One Step Closer to Converged Computing: Achieving Scalability with Cloud-Native HPC</td>
-        <td>Claudia Misale (IBM)</td>
+        <td>Daniel J. Milroy</td>
         <td></td>
     </tr>
     <tr>
