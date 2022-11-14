@@ -46,7 +46,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     </tr>
     <tr>
         <td>Paper1: Multiscale scientific workflows on high-performance hybrid cloud</td>
-        <td>Vadim Elisseev (IBM)</td>
+        <td>Robert Manson-Sawko (IBM)</td>
         <td></td>
     </tr>
     <tr>
