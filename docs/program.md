@@ -36,7 +36,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
         <td>08:35</td>
         <td>45min</td>
         <td><b>Keynote</b>: Kubernetes at CERN</td>
-        <td>Richardo Rocha (CERN)</td>
+        <td>Ricardo Rocha (CERN)</td>
         <td>virt</td>
     </tr>
     <tr>
