@@ -47,7 +47,7 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     <tr>
         <td>Paper1: Multiscale scientific workflows on high-performance hybrid cloud</td>
         <td>Robert Manson-Sawko (IBM)</td>
-        <td></td>
+        <td>phy</td>
     </tr>
     <tr>
         <td style="vertical-align:top" rowspan="3">09:50</td>
@@ -77,17 +77,17 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     <tr>
         <td>Paper2: Complete Provenance for Application Experiments with Containers and Hardware Interface Metadata</td>
         <td>Quincy Wofford (LANL)</td>
-        <td></td>
+        <td>phy</td>
     </tr>
     <tr>
         <td>Paper3: Scaling Podman on Perlmutter</td>
         <td>Laurie A. Stephey (LBNL)</td>
-        <td></td>
+        <td>virt</td>
     </tr>
     <tr>
         <td>Paper4: A separated model for running rootless, unprivileged PMIx-enabled HPC applications in Kubernetes</td>
         <td>Joshua Hursey (IBM)</td>
-        <td></td>
+        <td>virt</td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>12:00PM</td>
