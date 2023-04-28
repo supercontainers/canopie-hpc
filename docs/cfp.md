@@ -3,11 +3,14 @@ hide:
   - navigation
 ---
 
-## 4th workshop on Containers and new orchestration paradigms for isolated environments in HPC (CANOPIE-HPC) at Supercomputing 2022
+## 5th workshop on Containers and new orchestration paradigms for isolated environments in HPC (CANOPIE-HPC) at Supercomputing 2023
 
 ### Program chairs:
 
-* Carlos Eduardo Arango Gutierrez, RedHat
+* Laurie Stephey, Lawrence Berkeley National Lab
+* Alberto Madona Madonna, CSCS
+
+
 * Shane Canon, Lawrence Berkeley National Lab
 * Andrew Younge, Sandia National Labs
 
@@ -15,13 +18,12 @@ CANOPIE-HPC is a workshop focusing on containerization, virtualization, and othe
 
 ### Important Dates
 
-*Submission close extended to Monday 29 EOD AOE*
 
-* Submission opens:    June 15, 2022
-* Submission closes:    August 29, 2022
-* Decisions:    September 9, 2022
-* Camera ready due:    October 8, 2022
-* Workshop date:    November 14, 2022
+* Submission opens:    June XX, 2023
+* Submission closes:    August XX, 2023
+* Decisions:    September XX, 2023
+* Camera ready due:    October XX, 2023
+* Workshop date:    TBD
 
 **Note: Items are due at 23:59 “anywhere on Earth” on the specified date. Specifically, this is 23:59 IDLW, i.e., UTC–12:00.**
 
@@ -49,7 +51,7 @@ The scope of this workshop is to better understand and improve user-defined, bri
 * New interaction techniques such as web apps (Jupyter, RStudio, etc.) and DevOps
 
 ### Workshop format
-CANOPIE-HPC will follow a relatively traditional format based on several other previously successful workshops at SC, consisting of approximately four sessions separated by breaks and lunch. We will have an introduction and welcoming remarks, technical talks, panels, a keynote, and a brief wrap-up discussion. The content of technical sessions will be driven by the curated mix of accepted submissions. In the event of a virtual SC22, CANOPIE-HPC will follow remote guidance from the SC22 organizers, with the goal of simulating an in-person workshop as closely as practical.
+CANOPIE-HPC will follow a relatively traditional format based on several other previously successful workshops at SC, consisting of approximately four sessions separated by breaks and lunch. We will have an introduction and welcoming remarks, technical talks, panels, a keynote, and a brief wrap-up discussion. The content of technical sessions will be driven by the curated mix of accepted submissions. In the event of a virtual SC23, CANOPIE-HPC will follow remote guidance from the SC23 organizers, with the goal of simulating an in-person workshop as closely as practical.
 
 ### Diversity and inclusivity
 The CANOPIE-HPC organizers embrace diversity and inclusion. We are committed to equal opportunity for everyone, regardless of race, color, religion, sex, national origin, age, disability, genetic information, gender identity, sexual orientation, or status as a parent, among other things. We understand that today’s workforce is more diverse than ever and that the nation’s best and brightest represent an endless variety of cultural, geographical, and educational backgrounds; life experiences; and perspectives. We welcome this because we recognize that workforce diversity, when fully leveraged, leads to the inclusion of more ideas and viewpoints, which in turn leads to more creativity and innovation. When individuals are able to bring their whole selves to work, they thrive and HPC thrives.
@@ -67,4 +69,4 @@ In conjunction with the SC Reproducibility Initiative, submissions should be tra
 
 The program committee will discuss the submissions and their reviews and select the program over a video conference meeting. Submissions will be assessed as-is, with no expectation of substantive revision after peer review, though some submissions may be accepted conditional on specified changes (“shepherded”).
 
-Submit your manuscript using the [SC22 web system](https://submissions.supercomputing.org/?page=Submit&id=SC22WorkshopCANOPIEHPCSubmission&site=sc22).
+//Submit your manuscript using the [SC23 web system](https://submissions.supercomputing.org/?page=Submit&id=SC23WorkshopCANOPIEHPCSubmission&site=sc23).

@@ -32,6 +32,12 @@ nav:
   - Organizers: organizers.md
   - Program: program.md
   - Previous Workshops:
+    - SC22:
+      - Home: prev/2022/index.md
+      - Call for Papers: prev/2022/cfp.md
+      - Organizers: prev/2022/org.md
+      - Program: prev/2022/program.md
+      - Topics: prev/2022/topics.md
     - SC21:
       - Home: prev/2021/index.md
       - Call for Papers: prev/2021/cfp.md
