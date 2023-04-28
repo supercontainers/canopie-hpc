@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 ---
 
 * Experience using containers for HPC applications including data analytics, machine learning, modeling and simulation.
