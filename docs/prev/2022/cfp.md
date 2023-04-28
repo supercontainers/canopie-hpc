@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 ---
 
 ## 4th workshop on Containers and new orchestration paradigms for isolated environments in HPC (CANOPIE-HPC) at Supercomputing 2022
