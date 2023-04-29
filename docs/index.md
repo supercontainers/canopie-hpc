@@ -16,7 +16,7 @@ TBD
 
 Held in conjunction with SC23: The International Conference for High Performance Computing, Networking, Storage and Analysis.
 
-![SC23](images/sc22.png) ![IEEE](images/ieee.png)
+![SC23](images/sc23.png) ![IEEE](images/ieee.png)
 
 ### ABOUT
 
