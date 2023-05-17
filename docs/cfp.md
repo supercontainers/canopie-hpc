@@ -23,7 +23,7 @@ CANOPIE-HPC is a workshop focusing on containerization, virtualization, and othe
 * Submission closes:    August XX, 2023
 * Decisions:    September XX, 2023
 * Camera ready due:    October XX, 2023
-* Workshop date:    TBD
+* Workshop date:    November 13, 2023
 
 **Note: Items are due at 23:59 “anywhere on Earth” on the specified date. Specifically, this is 23:59 IDLW, i.e., UTC–12:00.**
 
