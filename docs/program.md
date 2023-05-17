@@ -5,15 +5,17 @@ hide:
 ---
 
 ## CANOPIE-HPC 2023 Workshop Program
-Monday, November 14th, 2023
+Monday, November 13th, 2023
 TBD
 
-** Note all times list CENTRAL TIME (UTC–6) **
+** Note all times list MOUNTAIN TIME (UTC–7) **
 
 
 ## Agenda
 
-We plan to have a combination of Invited Speakers, Research Paper Presentations, Lightning Talks, and Panel sessions.
+We plan to have a combination of Research Paper Presentations, Lightning Talks, and Panel sessions.
+
+<!---
 
 <table>
 <thead>
@@ -34,3 +36,5 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     </tr>
 </tbody>
 </table>
+
+-->
