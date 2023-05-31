@@ -4,12 +4,12 @@ hide:
 ---
 
 ## STEERING COMMITTEE
-* Andrew Younge – Sandia National Laboratories
 * Shane Canon – Lawrence Berkeley National Laboratory
+* Alberto Madona Madonna, CSCS
 
 ## PROGRAM CHAIRS
-* Laurie Stephey, Lawrence Berkeley National Lab
 * Alberto Madona Madonna, CSCS
+* Laurie Stephey, Lawrence Berkeley National Lab
 
 <!---
 * Carlos Eduardo Arango Gutierrez, Red Hat, Inc.

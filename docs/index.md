@@ -11,8 +11,7 @@ hide:
 HPC-Containers Slack channel: [Join Link](http://bit.ly/hpccslack)
 
 CANOPIE HPC Workshop @ SC23
-
-TBD
+Monday morning, November 13
 
 Held in conjunction with SC23: The International Conference for High Performance Computing, Networking, Storage and Analysis.
 
