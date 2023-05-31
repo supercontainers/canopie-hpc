@@ -5,7 +5,7 @@ hide:
 
 ## STEERING COMMITTEE
 * Shane Canon – Lawrence Berkeley National Laboratory
-* Alberto Madona Madonna, CSCS
+* Andrew Younge – Sandia National Laboratories
 
 ## PROGRAM CHAIRS
 * Alberto Madona Madonna, CSCS
