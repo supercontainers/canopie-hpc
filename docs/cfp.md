@@ -117,13 +117,12 @@ address any issues or questions from our virtual attendees.
 
 ### Submission procedure
 
-Accepted manuscripts will be published in IEEE Computer Society.  Manuscripts
-should use the IEEE Transactions format; templates are available for Microsoft
-Word and LaTeX (though note that the IEEEtran class comes with most LaTeX
-installations). Manuscripts must be at least 6 pages in the IEEE Transactions
-format, including figures, tables, and references. There is no maximum, but
-writing should be concise, and manuscript length must be commensurate with
-contribution size. 
+Accepted manuscripts will be published in IEEE Computer Society.
+
+Upload your paper in PDF format. Papers must use the new [ACM proceedings
+templates](https://www.acm.org/publications/proceedings-template) and the CCS2012 guide.
+Manuscript length must
+be between 6 and 12 pages, including references and figures.
 
 We enthusiastically welcome original, high-quality submissions within the scope
 above. These may describe complete studies; work-in-progress research; position
