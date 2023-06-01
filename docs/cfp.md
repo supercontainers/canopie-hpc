@@ -7,7 +7,7 @@ hide:
 
 ### Program chairs:
 
-* Alberto Madona Madonna, CSCS
+* Alberto Madonna, Swiss National Supercomputing Centre
 * Laurie Stephey, Lawrence Berkeley National Lab
 
 * Shane Canon, Lawrence Berkeley National Lab
