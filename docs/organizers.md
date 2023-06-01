@@ -8,7 +8,7 @@ hide:
 * Andrew Younge – Sandia National Laboratories
 
 ## PROGRAM CHAIRS
-* Alberto Madona Madonna, CSCS
+* Alberto Madonna, Swiss National Supercomputing Centre
 * Laurie Stephey, Lawrence Berkeley National Lab
 
 <!---
