@@ -153,4 +153,6 @@ as-is, with no expectation of substantive revision after peer review, though
 some submissions may be accepted conditional on specified changes
 (“shepherded”).
 
-Submit your manuscript using the [SC23 web system](https://submissions.supercomputing.org/?page=Submit&id=SC23WorkshopCANOPIEHPCSubmission&site=sc23).
+Submit your [SC23 CANOPIE-HPC paper](https://submissions.supercomputing.org/?args=Aprcnt3DxGzb0zU3TJUHtGyfHfbQIf0zU30Jprcnt3DbATzU30IXrfGzIXrf9_aTz0Cx0zfsGRRa_THQP0Aprcnt3DxfGzU3ACIIfb0HQP0Aprcnt3DxfTtUbprcnt3DsfGQUIYprcnt3DbTtUbb0XfQbGzt9hTzYprcnt3D40bprcnt3DQxGdbUfTzYprcnt3D40QHHGdbUfTzYprcnt3D40Iprcnt3Dxprcnt3DGdbUfTrAprcnt3DxGzU3ACI0IQ3TrJUHtGzU3ACI0IQ3TEGch_9D)
+
+Submit your [SC23 CANOPIE-HPC lightning talk](https://submissions.supercomputing.org/?args=Aprcnt3DxGzb0zU3TJUHtGyfHfbQIf0zU30Jprcnt3DbATzU30IXrfGzIXrf_hMTz0Cx0zfsGRRa_THQP0Aprcnt3DxfGzU3ACIIfb0HQP0Aprcnt3DxfTtUbprcnt3DsfGQUIYprcnt3DbTtUbb0XfQbGzt9hTzYprcnt3D40bprcnt3DQxGdbUfTzYprcnt3D40QHHGdbUfTzYprcnt3D40Iprcnt3Dxprcnt3DGdbUfTrAprcnt3DxGzU3ACI0IQ3TrJUHtGzU3ACI0IQ3TEGch_9a)
