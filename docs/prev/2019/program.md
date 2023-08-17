@@ -23,3 +23,5 @@ Papers: [Papers](https://conferences.computer.org/sc19w/2019/#!/toc/0)
 | |  Popper 2.0: A Multi-container Workflow Execution Engine For Testing Complex Applications and Validating Scientific Explorations [PDF](https://www.canopie-hpc.org/wp-content/uploads/2019/12/20191118-popper2.0-canopie-workshop.pdf) – Quincy Wofford|
 | | Running InfiniBand and GPU Accelerated MPI Applications in a Kubernetes Environment [PDF](https://www.canopie-hpc.org/wp-content/uploads/2019/12/MPI-and-k8s-with-ParallelJob-2019-11-sc-workshop.pdf) – Josh Hursey|
 | 17:30 – 17:31 | Closing Remarks|
+
+## [Proceedings](https://ieeexplore.ieee.org/xpl/conhome/8949328/proceeding) from CANOPIE-HPC SC19

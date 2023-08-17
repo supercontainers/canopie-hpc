@@ -167,3 +167,5 @@ We plan to have a combination of Invited Speakers, Research Paper Presentations,
     </tr>
 </tbody>
 </table>
+
+## [Proceedings](https://ieeexplore.ieee.org/xpl/conhome/10029390/proceeding) from CANOPIE-HPC SC22
