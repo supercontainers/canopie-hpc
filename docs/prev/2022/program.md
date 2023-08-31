@@ -7,14 +7,7 @@ hide:
 Monday, November 14th, 2022
 8:30am – 5:00pm CST
 
-## Papers
-
-The papers were published by IEEE and can be found at:
-
-https://www.computer.org/csdl/proceedings/canopie-hpc/2022/1L6LKeG7tZu
-
 ** Note all times list CENTRAL TIME (UTC–6) **
-
 
 ## Agenda
 
