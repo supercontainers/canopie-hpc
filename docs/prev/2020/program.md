@@ -35,3 +35,4 @@ November 12, 2020
 |         | What are the impediments to making container-based workflows the default deployment model for HPC? |
 | 6:00 pm | Wrap-up |
 
+## [Proceedings](https://ieeexplore.ieee.org/xpl/conhome/9297035/proceeding) from CANOPIE-HPC SC20

@@ -36,3 +36,5 @@ Sunday, November 14th, 2021
 |         | Cory Snavely – LBNL/NERSC|
 |         | Dan Walsh – Red Hat|
 | 5: 30 pm | Closing Remarks|
+
+## [Proceedings](https://ieeexplore.ieee.org/xpl/conhome/9652565/proceeding) from CANOPIE-HPC SC21
