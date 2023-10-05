@@ -32,7 +32,7 @@ Monday, November 13th, 2023
     <tr>
         <td>09:00</td>
         <td>10min</td>
-        <td>CANOPIE-HPC- Introduction and welcome</td>
+        <td>CANOPIE-HPC - Introduction and welcome</td>
         <td>Madonna, Stephey, Canon, Younge</td>
         <td></td>
     </tr>
