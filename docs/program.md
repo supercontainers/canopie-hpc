@@ -40,7 +40,7 @@ Monday, November 13th, 2023
         <td>09:10</td>
         <td>25min</td>
         <td>Survey of adaptive containerization architectures for HPC</td>
-        <td>Mujkanovic, Durillo, Müller</td>
+        <td>Mujkanovic, Durillo, Hammer, Müller</td>
         <td>Paper</td>
     </tr>
     <tr>
