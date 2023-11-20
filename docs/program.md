@@ -150,3 +150,6 @@ Monday, November 13th, 2023
         <td colspan="3">End</td>
     </tr>
 </tbody>
+</table>
+
+## [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3624062?tocHeading=heading4#heading4) from CANOPIE-HPC SC23 (as part of the complete SC23 Workshop proceedings)
