@@ -15,7 +15,7 @@ Monday, November 13 9am–12:30pm (Mountain Time)
 
 Held in conjunction with SC23: The International Conference for High Performance Computing, Networking, Storage and Analysis.
 
-![SC23](images/sc23.png) ![IEEE](images/ieee.png)
+![SC23](images/sc23.png) ![ACM-DL](https://identitystandards.acm.org/acmdl/ACM-DL-Logo-flat-black-URL-small.JPG)
 
 ### ABOUT
 
@@ -31,4 +31,6 @@ it relates to supporting High Performance Computing (HPC).
 
 ### Proceedings
 
-[Proceedings from previous CANOPIE-HPC workshps](https://ieeexplore.ieee.org/xpl/conhome/1835005/all-proceedings)
+[Proceedings from CANOPIE-HPC 2023](https://dl.acm.org/doi/proceedings/10.1145/3624062?tocHeading=heading4#heading4)
+
+[Proceedings from CANOPIE-HPC 2019-2022](https://ieeexplore.ieee.org/xpl/conhome/1835005/all-proceedings)
