@@ -15,7 +15,7 @@ Monday, November 13 9am–12:30pm (Mountain Time)
 
 Held in conjunction with SC23: The International Conference for High Performance Computing, Networking, Storage and Analysis.
 
-![SC23](images/sc23.png) ![ACM-DL](https://identitystandards.acm.org/acmdl/ACM-DL-Logo-flat-black-URL-small.JPG)
+![SC23](../../images/sc23.png) ![ACM-DL](https://identitystandards.acm.org/acmdl/ACM-DL-Logo-flat-black-URL-small.JPG)
 
 ### ABOUT
 
