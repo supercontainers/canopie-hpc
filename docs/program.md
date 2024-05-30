@@ -5,7 +5,7 @@ hide:
 ---
 
 ## CANOPIE-HPC 2024 Workshop Program
-Sunday, November 17th, 2023
+Sunday, November 17th, 2024
 9am-5:30pm EST
 
 ** Note all times list EASTERN STANDARD TIME (UTC–5) **
