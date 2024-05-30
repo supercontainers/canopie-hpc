@@ -66,7 +66,7 @@ Monday, November 13th, 2023
         <td>Preemptive Scheduling of Stateful GPU Intensive HPC Applications in Kubernetes</td>
         <td>Stoyanov, Reber, Armour</td>
         <td>Lightning</td>
-        <td>slides</td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2023/slides/Preemptive-Scheduling-CANOPIE-HPC-2023.pdf">slides</a></td>
     </tr>
  <tr>
         <td>09:50</td>
