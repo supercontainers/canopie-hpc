@@ -4,13 +4,17 @@ hide:
   - toc
 ---
 
-## CANOPIE-HPC 2023 Workshop Program
-Monday, November 13th, 2023
-9am-12:30pm MST
+## CANOPIE-HPC 2024 Workshop Program
+Sunday, November 17th, 2023
+9am-5:30pm EST
 
-** Note all times list MOUNTAIN TIME (UTC–7) **
+** Note all times list EASTERN STANDARD TIME (UTC–5) **
 
 ## Agenda
+
+**TBD**
+
+<!---
 
 <table>
 <thead>
@@ -168,4 +172,4 @@ Monday, November 13th, 2023
 </tbody>
 </table>
 
-## [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3624062?tocHeading=heading4#heading4) from CANOPIE-HPC SC23 (as part of the complete SC23 Workshop proceedings)
+-->
