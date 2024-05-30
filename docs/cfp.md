@@ -21,10 +21,10 @@ published in IEEE  Computer Society.
 ### Important Dates
 
 * Submission opens:    June 1, 2024
-* Submission closes (hard deadline- no extensions):    August 4, 2024
-* Decisions:    August 25, 2024
-* Camera ready deadline:    September 15, 2024
-* Workshop date:    November 17-18, 2024
+* Submission closes (hard deadline- no extensions):    August 16, 2024
+* Decisions:    September 6, 2024
+* Camera ready deadline:    September 27, 2024
+* Workshop date:    November 17, 2024
 
 **Note: Items are due at 23:59 “anywhere on Earth” on the specified date. Specifically, this is 23:59 IDLW, i.e., UTC–12:00.**
 
@@ -124,7 +124,7 @@ wheelchair-designated seating remains available to those in need. We also plan t
 include a 30 minute open discussion section to invite additional audience questions 
 and participation. Furthermore, we will encourage attendees to join the Slack 
 channel _hpc-containers_ to have an opportunity to continue to chat, ask questions 
-and make professional connections.   
+and make professional connections.
 
 ### Reproducibility plan
 In conjunction with the SC Reproducibility Initiative, submissions are required 
