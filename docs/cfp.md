@@ -180,6 +180,9 @@ program over a video conference meeting. Submissions will be assessed as-is, wit
 no expectation of substantive revision after peer review, though some submissions 
 may be accepted conditional on specified changes ("shepherded").
 
+Rejected paper submissions could be offered the possibility to present as a lightning talk,
+at the discretion of the program committee.
+
 Submit your [SC24 CANOPIE-HPC paper](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCSubmission&site=sc24)
 
 Submit your [SC24 CANOPIE-HPC lightning talk](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCLightningTalkSubmission&site=sc24)
