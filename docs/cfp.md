@@ -22,8 +22,9 @@ published in IEEE  Computer Society.
 
 * Submission opens:    June 4, 2024
 * Submission closes (hard deadline- no extensions):    August 16, 2024
-* Decisions:    September 6, 2024
-* Camera ready deadline:    September 27, 2024
+* Papers decisions:    September 6, 2024
+* Lightning talks decisions:  September 13, 2024
+* Camera-ready papers deadline:    September 27, 2024
 * Workshop date:    November 17, 2024
 
 **Note: Items are due at 23:59 “anywhere on Earth” on the specified date. Specifically, this is 23:59 IDLW, i.e., UTC–12:00.**
