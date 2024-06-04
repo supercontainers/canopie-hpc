@@ -22,9 +22,9 @@ Held in conjunction with SC24: The International Conference for High Performance
 Containers and New Orchestration Paradigms for Isolated Environments in HPC
 (CANOPIE-HPC) is a workshop focusing on containerization, virtualization, and
 other methods to implement user-defined, bring-your-own, or isolated software
-environments. The fifth workshop will be hosted at the 2023 International
+environments. The sixth workshop will be hosted at the 2024 International
 Conference for High Performance Computing, Networking, Storage and Analysis
-(SC23). The objective of this workshop is to serve as the principal venue for
+(SC24). The objective of this workshop is to serve as the principal venue for
 leaders in the field to stimulate research and interactions in relation to
 cutting-edge container technologies, virtualization, and OS system software as
 it relates to supporting High Performance Computing (HPC).
