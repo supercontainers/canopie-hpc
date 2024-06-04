@@ -179,7 +179,7 @@ program over a video conference meeting. Submissions will be assessed as-is, wit
 no expectation of substantive revision after peer review, though some submissions 
 may be accepted conditional on specified changes ("shepherded").
 
-Submit your [SC24 CANOPIE-HPC paper](https://submissions.supercomputing.org/?args=Aprcnt3DxGzb0zU3TJUHtGyfHfbQIf0zU30Jprcnt3DbATzU30IXrfGzIXrf99RTz0Cx0zfsGahNM_THQP0Aprcnt3DxfGzU3ACIIfb0HQP0Aprcnt3DxfTtUbprcnt3DsfGQUIYprcnt3DbTtUbb0XfQbGzt9_TzYprcnt3D40bprcnt3DQxGdbUfTzYprcnt3D40QHHGdbUfTzYprcnt3D40Iprcnt3Dxprcnt3DGdbUfTrAprcnt3DxGzU3ACI0IQ3TrJUHtGzU3ACI0IQ3TEG9_c_9)
+Submit your [SC24 CANOPIE-HPC paper](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCSubmission&site=sc24)
 
-Submit your [SC24 CANOPIE-HPC lightning talk](https://submissions.supercomputing.org/?args=Aprcnt3DxGzb0zU3TJUHtGyfHfbQIf0zU30Jprcnt3DbATzU30IXrfGzIXrf9hNTz0Cx0zfsGahNM_THQP0Aprcnt3DxfGzU3ACIIfb0HQP0Aprcnt3DxfTtUbprcnt3DsfGQUIYprcnt3DbTtUbb0XfQbGzt9_TzYprcnt3D40bprcnt3DQxGdbUfTzYprcnt3D40QHHGdbUfTzYprcnt3D40Iprcnt3Dxprcnt3DGdbUfTrAprcnt3DxGzU3ACI0IQ3TrJUHtGzU3ACI0IQ3TEG9_c_h)
+Submit your [SC24 CANOPIE-HPC lightning talk](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCLightningTalkSubmission&site=sc24)
 
