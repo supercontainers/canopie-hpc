@@ -20,6 +20,7 @@ theme:
     - toc.follow
 markdown_extensions:
   - meta
+  - attr_list
 extra:
   social:
     - icon: fontawesome/brands/slack

@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 ---
 * Container runtimes, virtual machine implementations, and other related technologies
 * Perspectives from container framework developers and  maintainers
