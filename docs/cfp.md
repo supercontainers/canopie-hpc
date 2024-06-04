@@ -20,7 +20,7 @@ published in IEEE  Computer Society.
 
 ### Important Dates
 
-* Submission opens:    June 1, 2024
+* Submission opens:    June 4, 2024
 * Submission closes (hard deadline- no extensions):    August 16, 2024
 * Decisions:    September 6, 2024
 * Camera ready deadline:    September 27, 2024
