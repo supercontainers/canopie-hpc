@@ -15,7 +15,7 @@ Sunday, November 17 9am–5:30pm (EST)
 
 Held in conjunction with SC24: The International Conference for High Performance Computing, Networking, Storage, and Analysis.
 
-![SC24](images/sc24_H_black_shaded.png){: style="width:300px"} ![IEEEXplore](images/ieee_xplore_logo_rgb_150ppi.png)
+![SC24](images/sc24_H_black_shaded.png){: style="width:300px; margin-right:200px"} ![IEEEXplore](images/ieee_xplore_logo_rgb_150ppi.png)
 
 ### ABOUT
 
