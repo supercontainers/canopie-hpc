@@ -6,7 +6,7 @@ hide:
 
 ## CANOPIE-HPC 2024 Workshop Program
 Sunday, November 17th, 2024
-8.30am-5:00pm EST
+9:00am-5:30pm EST
 
 ** Note all times list EASTERN STANDARD TIME (UTC–5) **
 
@@ -45,15 +45,12 @@ Sunday, November 17th, 2024
         <td>Invited Talk</td>
         <td><a>paper</a> - <a>slides</a></td>
     </tr>
-    <tr>
+    <tr style="background-color:#A9A9A9">
         <td>10:00</td>
         <td>30min</td>
-        <td>Morning Break</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td colspan="4">Morning Break</td>
     </tr>
- <tr>
+    <tr>
         <td>10:30</td>
         <td>10min</td>
         <td>Containerized Checkpoint-Restart Mechanisms for HPC</td>
@@ -61,7 +58,7 @@ Sunday, November 17th, 2024
         <td>Lightning</td>
         <td><a">slides</a></td>
     </tr>
- <tr>
+    <tr>
         <td>10:40</td>
         <td>30min</td>
         <td>PULSE: Using Mixed-Quality Models for Reducing Serverless Keep-Alive 	Cost</td>
@@ -69,7 +66,7 @@ Sunday, November 17th, 2024
         <td>Paper</td>
         <td>slides</td>
     </tr>
- <tr>
+    <tr>
         <td>11:10</td>
         <td>30min</td>
         <td>Enabling HPC Scientific Workflows for Serverless</td>
@@ -77,7 +74,7 @@ Sunday, November 17th, 2024
         <td>Paper</td>
         <td><>slides</a></td>
     </tr>
-  <tr>
+    <tr>
         <td>11:40</td>
         <td>50 min</td>
         <td>XaaS: Acceleration as a Service to Enable Productive High-Performance Cloud Computing</td>
@@ -90,8 +87,7 @@ Sunday, November 17th, 2024
         <td>90min</td>
         <td colspan="4">Lunch Break</td>
     </tr>
-
- <tr>
+    <tr>
         <td>2:00PM</td>
         <td>10min</td>
         <td>Afternoon Introduction</td>
@@ -99,7 +95,7 @@ Sunday, November 17th, 2024
         <td></td>
         <td></td>
     </tr>
- <tr>
+    <tr>
         <td>2:10</td>
         <td>10min</td>
         <td>Containerization in HPC Environments: Challenges in Optimizing performance and security in Scientific Computing</td>
@@ -107,7 +103,7 @@ Sunday, November 17th, 2024
         <td>Lightning</td>
         <td><a>slides</a></td>
     </tr>
- <tr>
+    <tr>
         <td>2:20</td>
         <td>10min</td>
         <td>Comparative Analysis of a Containerized Compilation Process Versus Bare-metal Compilation Runs</td>
@@ -115,7 +111,7 @@ Sunday, November 17th, 2024
         <td>Lightning</td>
         <td><a>slides</a></td>
     </tr>
- <tr>
+    <tr>
         <td>2:30</td>
         <td>30min</td>
         <td>Zero-Consistency Root Emulation for Unprivileged Container Build</td>
@@ -123,15 +119,12 @@ Sunday, November 17th, 2024
         <td>Paper</td>
         <td><a>slides</a></td>
     </tr>
- <tr>
+    <tr style="background-color:#A9A9A9">
         <td>3:00</td>
         <td>30min</td>
-        <td>Afternoon Break</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td colspan="4">Afternoon Break</td>
     </tr>
- <tr>
+    <tr>
         <td>3:30</td>
         <td>30min</td>
         <td>K-Foundry: Using Kubernetes-Like Control Planes with Custom Resource Definitions to Deploy Containerized HPC Applications Across Multiple Computing Platforms</td>
@@ -139,13 +132,15 @@ Sunday, November 17th, 2024
         <td>Invited</td>
         <td><a>slides</a></td>
     </tr>
+    <tr>
         <td>4:00</td>
         <td>10min</td>
-        <td>Applying Container Technology to the NOAA-GFDL MSD FRE 		Workflow, Part 1</td>
-        <td>Brown, Singh, Robinson. Geophysical Fluid Dynamics Laboratory</td>
+        <td>Applying Container Technology to the NOAA-GFDL MSD FRE Workflow, Part 1</td>
+        <td>Brown, Singh, Robinson. Geophysical Fluid Dynamics Laboratory (NOAA)</td>
         <td>Lightning</td>
         <td><a>slides</a></td>
     </tr>
+    <tr>
         <td>4:10</td>
         <td>30min</td>
         <td>Deploying Containers on Secure HPC Systems</td>
@@ -153,6 +148,7 @@ Sunday, November 17th, 2024
         <td>Invited</td>
         <td><a>slides</a></td>
     </tr>
+    <tr>
         <td>4:40</td>
         <td>45</td>
         <td>Community Discussion and Open Q&A</td>
@@ -160,13 +156,10 @@ Sunday, November 17th, 2024
         <td>Panel</td>
         <td></td>
     </tr>
-     </tr>
+    <tr>
         <td>5:25</td>
         <td>5min</td>
-        <td>Conclusions and Farewell</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td colspan="4">Conclusions and Farewell</td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>5:30</td>
