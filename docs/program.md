@@ -43,7 +43,7 @@ Sunday, November 17th, 2024
         <td>Slinky: The Missing Link Between Slurm and Kubernetes</td>
         <td>Wickberg, Malinowski. SchedMD</td>
         <td>Invited Talk</td>
-        <td></td>
+        <td><a href="https://drive.google.com/file/d/1tqMo_Dltt2zASI02H2e2swMpDlhLVI9m/view?usp=drive_link">Slides</a></td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>10:00</td>
