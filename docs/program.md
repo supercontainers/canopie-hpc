@@ -35,7 +35,7 @@ Sunday, November 17th, 2024
         <td>CANOPIE-HPC - Introduction and welcome</td>
         <td>Madonna, Misale, Canon, Younge</td>
         <td></td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/CANOPIE-HPC-SC24-intro.pdf">slides</a></td>
     </tr>
     <tr>
         <td>09:15</td>
@@ -43,7 +43,7 @@ Sunday, November 17th, 2024
         <td>Slinky: The Missing Link Between Slurm and Kubernetes</td>
         <td>Wickberg, Malinowski. SchedMD</td>
         <td>Invited Talk</td>
-        <td><a href="https://drive.google.com/file/d/1tqMo_Dltt2zASI02H2e2swMpDlhLVI9m/view?usp=drive_link">Slides</a></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Slinky-CANOPIE.pdf">slides</a></td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>10:00</td>
@@ -56,7 +56,7 @@ Sunday, November 17th, 2024
         <td>Containerized Checkpoint-Restart Mechanisms for HPC</td>
         <td>Timalsina, Tyler. NERSC at Lawrence Berkeley National Laboratory</td>
         <td>Lightning</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/ContainerizedCheckpoint-RestartMechanismsforHPC_MadanTimalsina_Nov17_24.pdf">slides</a></td>
     </tr>
     <tr>
         <td>10:40</td>
@@ -64,7 +64,7 @@ Sunday, November 17th, 2024
         <td>PULSE: Using Mixed-Quality Models for Reducing Serverless Keep-Alive 	Cost</td>
         <td>Sankaranarayanan, Basu Roy, Tiwari,  Northeastern University</td>
         <td>Paper</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/2024_SC_Workshop_Pulse.pdf">slides</a></td>
     </tr>
     <tr>
         <td>11:10</td>
@@ -72,7 +72,7 @@ Sunday, November 17th, 2024
         <td>Enabling HPC Scientific Workflows for Serverless</td>
         <td>Da Silva, Hong, et al. Hewlett Packard Labs and  Oak Ridge National </td>
         <td>Paper</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Anderson_Andrei-Enabling_HPC_Scientific_Workflows_for_Serverless.pdf">slides</a></td>
     </tr>
     <tr>
         <td>11:40</td>
