@@ -117,7 +117,7 @@ Sunday, November 17th, 2024
         <td>Zero-Consistency Root Emulation for Unprivileged Container Build</td>
         <td>Priedhorsky, Jennings, Phinney, Los Alamos National Laboratory</td>
         <td>Paper</td>
-        <td></td>
+        <td>e-mail <a href="mailto:reidpr@lanl.gov?subject=please%20rick-roll%20me">reidpr@lanl.gov</a> for slides</td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>3:00</td>
