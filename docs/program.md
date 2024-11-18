@@ -101,7 +101,7 @@ Sunday, November 17th, 2024
         <td>Containerization in HPC Environments: Challenges in Optimizing performance and security in Scientific Computing</td>
         <td>Saravanan, University of Texas at Tyler; Z Ibrahim, Lawrence Berkeley National Laboratory</td>
         <td>Lightning</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/CANOPIE_SC24_Vijayalakshmi.pdf">slides</a></td>
     </tr>
     <tr>
         <td>2:20</td>
@@ -109,7 +109,7 @@ Sunday, November 17th, 2024
         <td>Comparative Analysis of a Containerized Compilation Process Versus Bare-metal Compilation Runs</td>
         <td>Singh, Science Applications International Corporation; Robinson, Geophysical Fluid Dynamics Laboratory</td>
         <td>Lightning</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Comparative-analysis-of-containerized-compilation.pdf">slides</a></td>
     </tr>
     <tr>
         <td>2:30</td>
@@ -138,7 +138,7 @@ Sunday, November 17th, 2024
         <td>Applying Container Technology to the NOAA-GFDL MSD FRE Workflow, Part 1</td>
         <td>Brown, Singh, Robinson. Geophysical Fluid Dynamics Laboratory (NOAA)</td>
         <td>Lightning</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Applying_Container_Technology_to_NOAA_GFDL_FRE_Workflow.pdf">slides</a></td>
     </tr>
     <tr>
         <td>4:10</td>
@@ -146,7 +146,7 @@ Sunday, November 17th, 2024
         <td>Deploying Containers on Secure HPC Systems</td>
         <td>Brayford, Hewlett Packard Labs</td>
         <td>Invited</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/SC24_CANOPIE_Secure_Containers.pdf">slides</a></td>
     </tr>
     <tr>
         <td>4:40</td>
