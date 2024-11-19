@@ -64,7 +64,7 @@ Sunday, November 17th, 2024
         <td>PULSE: Using Mixed-Quality Models for Reducing Serverless Keep-Alive 	Cost</td>
         <td>Sankaranarayanan, Basu Roy, Tiwari,  Northeastern University</td>
         <td>Paper</td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/2024_SC_Workshop_Pulse.pdf">slides</a></td>
+        <td><a href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400a099/555400a099.pdf">paper</a> - <a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/2024_SC_Workshop_Pulse.pdf">slides</a></td>
     </tr>
     <tr>
         <td>11:10</td>
@@ -72,7 +72,7 @@ Sunday, November 17th, 2024
         <td>Enabling HPC Scientific Workflows for Serverless</td>
         <td>Da Silva, Hong, et al. Hewlett Packard Labs and  Oak Ridge National </td>
         <td>Paper</td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Anderson_Andrei-Enabling_HPC_Scientific_Workflows_for_Serverless.pdf">slides</a></td>
+        <td><a href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400a110/555400a110.pdf">paper</a> - <a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Anderson_Andrei-Enabling_HPC_Scientific_Workflows_for_Serverless.pdf">slides</a></td>
     </tr>
     <tr>
         <td>11:40</td>
@@ -117,7 +117,7 @@ Sunday, November 17th, 2024
         <td>Zero-Consistency Root Emulation for Unprivileged Container Build</td>
         <td>Priedhorsky, Jennings, Phinney, Los Alamos National Laboratory</td>
         <td>Paper</td>
-        <td>e-mail <a href="mailto:reidpr@lanl.gov?subject=please%20rick-roll%20me">reidpr@lanl.gov</a> for slides</td>
+        <td><a href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400a126/555400a126.pdf">paper</a> - e-mail <a href="mailto:reidpr@lanl.gov?subject=please%20rick-roll%20me">reidpr@lanl.gov</a>for slides</td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>3:00</td>
