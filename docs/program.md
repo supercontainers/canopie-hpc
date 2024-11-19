@@ -130,7 +130,7 @@ Sunday, November 17th, 2024
         <td>K-Foundry: Using Kubernetes-Like Control Planes with Custom Resource Definitions to Deploy Containerized HPC Applications Across Multiple Computing Platforms</td>
         <td>Beltre, et al. Sandia National Laboratories, NVIDIA</td>
         <td>Invited</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/K-Foundry-CANOPIE.pdf">slides</a></td>
     </tr>
     <tr>
         <td>4:00</td>
