@@ -31,6 +31,8 @@ it relates to supporting High Performance Computing (HPC).
 
 ### Proceedings
 
+[Proceedings from CANOPIE-HPC 2024](https://conferences.computer.org/sc-wpub/#!/toc/0#CANOPIE-HPC2024:6thInternationalWorkshoponContainersandNewOrchestrationParadigmsforIsolatedEnvironmentsinHPC)
+
 [Proceedings from CANOPIE-HPC 2023](https://dl.acm.org/doi/proceedings/10.1145/3624062?tocHeading=heading4#heading4)
 
 [Proceedings from CANOPIE-HPC 2019-2022](https://ieeexplore.ieee.org/xpl/conhome/1835005/all-proceedings)
