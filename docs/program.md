@@ -80,7 +80,7 @@ Sunday, November 17th, 2024
         <td>XaaS: Acceleration as a Service to Enable Productive High-Performance Cloud Computing</td>
         <td></td>
         <td>Panel</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/canopie_xaas_panel_expanded.pdf">slides</a></td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>12:30</td>
