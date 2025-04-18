@@ -15,7 +15,7 @@ November ?? 9am–5:30pm (CST)
 
 Held in conjunction with SC25: The International Conference for High Performance Computing, Networking, Storage, and Analysis.
 
-![SC25](images/sc25_logo.png){: style="width:318px; margin-right:159px"} ![IEEEXplore](images/ieee_xplore_logo_rgb_150ppi.png)
+![SC25](images/sc25_logo.png){: style="width:318px; margin-right:159px"} ![ACM](images/acm_logo_tablet.svg)
 
 ### ABOUT
 
