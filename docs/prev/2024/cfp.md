@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-## 7th workshop on Containers and new orchestration paradigms for isolated environments in HPC (CANOPIE-HPC) at Supercomputing 2025
+## 6th workshop on Containers and new orchestration paradigms for isolated environments in HPC (CANOPIE-HPC) at Supercomputing 2024
 
 ### Program chairs:
 
@@ -20,12 +20,12 @@ published in IEEE  Computer Society.
 
 ### Important Dates
 
-* Submission opens:    June ??, 2025
-* Submission closes (hard deadline- no extensions):    August ??, 2025
-* Papers decisions:    September ??, 2025
-* Lightning talks decisions:  September ??, 2025
-* Camera-ready papers deadline:    September ??, 2025
-* Workshop date:    November ??, 2025
+* Submission opens:    June 4, 2024
+* Submission closes (hard deadline- no extensions):    August 16, 2024
+* Papers decisions:    September 6, 2024
+* Lightning talks decisions:  September 13, 2024
+* Camera-ready papers deadline:    September 27, 2024
+* Workshop date:    November 17, 2024
 
 **Note: Items are due at 23:59 “anywhere on Earth” on the specified date. Specifically, this is 23:59 IDLW, i.e., UTC–12:00.**
 

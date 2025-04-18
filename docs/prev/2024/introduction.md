@@ -1,0 +1,9 @@
+---
+hide:
+  - toc
+  - navigation
+---
+
+We are pleased to introduce the International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE HPC), to be hosted at Supercomputing: The International Conference for High Performance Computing, Networking, Storage and Analysis. The objective of this workshop is to serve as the principal venue for leaders in the field to stimulate research and interactions in relation to cutting-edge container technologies, virtualization, and OS system software as it relates to supporting High Performance Computing (HPC). The first iteration of this workshop will give special attention to work which can provide real-world experiences to containerization in HPC, as well as promote the use of containers and engage in a collaborative manner with the larger HPC community.
+
+Container computing has revolutionized the way groups are developing, sharing, and running software and services.  This has initially been led by growth with Docker, which has provided an ecosystem of tools to enable container based computing.  This paradigm shift has since made in-roads in the HPC community enabled by container runtimes like Singularity, Shifter, and Charliecloud, which allow end-users to run containers in environments where standard Docker tools would not be feasible.  Orchestration systems such as Kubernetes allow for quick, scalable service deployments in conjunction with HPC. While this adoption is growing, the larger HPC community still has many questions around this new model. There still exist several undefined research questions related to containerization in HPC that the community must address.  
