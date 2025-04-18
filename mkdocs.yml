@@ -33,6 +33,12 @@ nav:
   - Organizers: organizers.md
   - Program: program.md
   - Previous Workshops:
+    - SC24:
+      - Home: prev/2024/index.md
+      - Call for Papers: prev/2024/cfp.md
+      - Organizers: prev/2024/organizers.md
+      - Program: prev/2024/program.md
+      - Topics: prev/2024/topics.md
     - SC23:
       - Home: prev/2023/index.md
       - Call for Papers: prev/2023/cfp.md
