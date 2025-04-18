@@ -6,7 +6,7 @@ hide:
 
 # Home
 
-## 6th International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC
+## 7th International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC
 
 HPC-Containers Slack channel: [Join Link](http://bit.ly/hpccslack)
 
