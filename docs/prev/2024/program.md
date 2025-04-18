@@ -35,7 +35,7 @@ Sunday, November 17th, 2024
         <td>CANOPIE-HPC - Introduction and welcome</td>
         <td>Madonna, Misale, Canon, Younge</td>
         <td></td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/CANOPIE-HPC-SC24-intro.pdf">slides</a></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2024/slides/CANOPIE-HPC-SC24-intro.pdf">slides</a></td>
     </tr>
     <tr>
         <td>09:15</td>
@@ -43,7 +43,7 @@ Sunday, November 17th, 2024
         <td>Slinky: The Missing Link Between Slurm and Kubernetes</td>
         <td>Wickberg, Malinowski. SchedMD</td>
         <td>Invited Talk</td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Slinky-CANOPIE.pdf">slides</a></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2024/slides/Slinky-CANOPIE.pdf">slides</a></td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>10:00</td>
@@ -56,7 +56,7 @@ Sunday, November 17th, 2024
         <td>Containerized Checkpoint-Restart Mechanisms for HPC</td>
         <td>Timalsina, Tyler. NERSC at Lawrence Berkeley National Laboratory</td>
         <td>Lightning</td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/ContainerizedCheckpoint-RestartMechanismsforHPC_MadanTimalsina_Nov17_24.pdf">slides</a></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2024/slides/ContainerizedCheckpoint-RestartMechanismsforHPC_MadanTimalsina_Nov17_24.pdf">slides</a></td>
     </tr>
     <tr>
         <td>10:40</td>
@@ -64,7 +64,7 @@ Sunday, November 17th, 2024
         <td>PULSE: Using Mixed-Quality Models for Reducing Serverless Keep-Alive 	Cost</td>
         <td>Sankaranarayanan, Basu Roy, Tiwari,  Northeastern University</td>
         <td>Paper</td>
-        <td><a href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400a099/555400a099.pdf">paper</a> - <a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/2024_SC_Workshop_Pulse.pdf">slides</a></td>
+        <td><a href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400a099/555400a099.pdf">paper</a> - <a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2024/slides/2024_SC_Workshop_Pulse.pdf">slides</a></td>
     </tr>
     <tr>
         <td>11:10</td>
@@ -72,7 +72,7 @@ Sunday, November 17th, 2024
         <td>Enabling HPC Scientific Workflows for Serverless</td>
         <td>Da Silva, Hong, et al. Hewlett Packard Labs and  Oak Ridge National </td>
         <td>Paper</td>
-        <td><a href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400a110/555400a110.pdf">paper</a> - <a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Anderson_Andrei-Enabling_HPC_Scientific_Workflows_for_Serverless.pdf">slides</a></td>
+        <td><a href="https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400a110/555400a110.pdf">paper</a> - <a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2024/slides/Anderson_Andrei-Enabling_HPC_Scientific_Workflows_for_Serverless.pdf">slides</a></td>
     </tr>
     <tr>
         <td>11:40</td>
@@ -80,7 +80,7 @@ Sunday, November 17th, 2024
         <td>XaaS: Acceleration as a Service to Enable Productive High-Performance Cloud Computing</td>
         <td></td>
         <td>Panel</td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/canopie_xaas_panel_expanded.pdf">slides</a></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2024/slides/canopie_xaas_panel_expanded.pdf">slides</a></td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>12:30</td>
@@ -101,7 +101,7 @@ Sunday, November 17th, 2024
         <td>Containerization in HPC Environments: Challenges in Optimizing performance and security in Scientific Computing</td>
         <td>Saravanan, University of Texas at Tyler; Z Ibrahim, Lawrence Berkeley National Laboratory</td>
         <td>Lightning</td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/CANOPIE_SC24_Vijayalakshmi.pdf">slides</a></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2024/slides/CANOPIE_SC24_Vijayalakshmi.pdf">slides</a></td>
     </tr>
     <tr>
         <td>2:20</td>
@@ -109,7 +109,7 @@ Sunday, November 17th, 2024
         <td>Comparative Analysis of a Containerized Compilation Process Versus Bare-metal Compilation Runs</td>
         <td>Singh, Science Applications International Corporation; Robinson, Geophysical Fluid Dynamics Laboratory</td>
         <td>Lightning</td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Comparative-analysis-of-containerized-compilation.pdf">slides</a></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2024/slides/Comparative-analysis-of-containerized-compilation.pdf">slides</a></td>
     </tr>
     <tr>
         <td>2:30</td>
@@ -130,7 +130,7 @@ Sunday, November 17th, 2024
         <td>K-Foundry: Using Kubernetes-Like Control Planes with Custom Resource Definitions to Deploy Containerized HPC Applications Across Multiple Computing Platforms</td>
         <td>Beltre, et al. Sandia National Laboratories, NVIDIA</td>
         <td>Invited</td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/K-Foundry-CANOPIE.pdf">slides</a></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2024/slides/K-Foundry-CANOPIE.pdf">slides</a></td>
     </tr>
     <tr>
         <td>4:00</td>
@@ -138,7 +138,7 @@ Sunday, November 17th, 2024
         <td>Applying Container Technology to the NOAA-GFDL MSD FRE Workflow, Part 1</td>
         <td>Brown, Singh, Robinson. Geophysical Fluid Dynamics Laboratory (NOAA)</td>
         <td>Lightning</td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Applying_Container_Technology_to_NOAA_GFDL_FRE_Workflow.pdf">slides</a></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2024/slides/Applying_Container_Technology_to_NOAA_GFDL_FRE_Workflow.pdf">slides</a></td>
     </tr>
     <tr>
         <td>4:10</td>
@@ -146,7 +146,7 @@ Sunday, November 17th, 2024
         <td>Deploying Containers on Secure HPC Systems</td>
         <td>Brayford, Hewlett Packard Labs</td>
         <td>Invited</td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/SC24_CANOPIE_Secure_Containers.pdf">slides</a></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/prev/2024/slides/SC24_CANOPIE_Secure_Containers.pdf">slides</a></td>
     </tr>
     <tr>
         <td>4:40</td>
