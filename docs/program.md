@@ -6,7 +6,7 @@ hide:
 
 ## CANOPIE-HPC 2025 Workshop Program
 Date and Time TBD
-November, November 17th, 2025
+Monday, November 17th, 2025
 9:00AM-5:30PM EST
 
 **Note all times listed are in CENTRAL STANDARD TIME (UTC–5)**
