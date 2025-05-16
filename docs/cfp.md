@@ -45,7 +45,7 @@ Our goal is to promote the adoption of these tools and introspect the impact of 
 new ecosystem on HPC use cases.
 This workshop serves as a key venue for presenting late-breaking research, sharing
 experiences and best practices, and fostering collaboration in this field.
-Our sixth workshop iteration will continue to emphasize real-world experiences
+Our seventh workshop iteration will continue to emphasize real-world experiences
 and challenges in adopting and optimizing these new approaches for HPC.
 
 
