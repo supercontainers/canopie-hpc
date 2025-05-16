@@ -11,18 +11,18 @@ hide:
 HPC-Containers Slack channel: [Join Link](http://bit.ly/hpccslack)
 
 CANOPIE HPC Workshop @ SC25
-November ?? 9am–5:30pm (CST)
+Monday, November 17th, 9AM–5:30PM (CST)
 
 Held in conjunction with SC25: The International Conference for High Performance Computing, Networking, Storage, and Analysis.
 
-![SC25](images/sc25_logo.png){: style="width:318px; margin-right:159px"} ![ACM](images/acm_logo_tablet.svg)
+![SC25](images/sc25_logo.png){: style="width:318px; margin-right:159px"} ![ACM-DL](https://identitystandards.acm.org/acmdl/ACM-DL-Logo-flat-black-URL-small.JPG)
 
 ### ABOUT
 
 Containers and New Orchestration Paradigms for Isolated Environments in HPC
 (CANOPIE-HPC) is a workshop focusing on containerization, virtualization, and
 other methods to implement user-defined, bring-your-own, or isolated software
-environments. The sixth workshop will be hosted at the 2025 International
+environments. The seventh workshop will be hosted at the 2025 International
 Conference for High Performance Computing, Networking, Storage and Analysis
 (SC25). The objective of this workshop is to serve as the principal venue for
 leaders in the field to stimulate research and interactions in relation to

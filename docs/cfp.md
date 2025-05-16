@@ -16,16 +16,16 @@ hide:
 CANOPIE-HPC is a workshop focusing on containerization, virtualization, and
 other methods to implement user-defined, bring-your-own, or isolated software
 environments. Submissions will be peer-reviewed, and accepted papers will be
-published in IEEE  Computer Society.
+published by ACM.
 
 ### Important Dates
 
 * Submission opens:    June ??, 2025
-* Submission closes (hard deadline- no extensions):    August ??, 2025
-* Papers decisions:    September ??, 2025
-* Lightning talks decisions:  September ??, 2025
-* Camera-ready papers deadline:    September ??, 2025
-* Workshop date:    November ??, 2025
+* Submission closes (hard deadline- no extensions):    August 15th, 2025
+* Papers decisions:    September 5th, 2025
+* Lightning talks decisions:  September 12th, 2025
+* Camera-ready papers deadline:    September 29th, 2025
+* Workshop date:    November 17th, 2025
 
 **Note: Items are due at 23:59 “anywhere on Earth” on the specified date. Specifically, this is 23:59 IDLW, i.e., UTC–12:00.**
 
@@ -80,21 +80,20 @@ Topics include but are not limited to:
 ### Workshop format
 
 We worked continuously to improve the CANOPIE-HPC program based on feedback 
-from the community. We have made adjustments to the format for SC24 to include
+from the community. We have made adjustments to the format for SC25 to include
 more dynamic and engaging content, in addition to the traditional full paper
 presentations. The content of technical sessions will be driven by the mix of
 accepted submissions curated by the program chairs. We will offer two submission
-tracks: one for full paper submissions, and one for lightning talks. Differently
-from the previous edition, CANOPIE-HPC SC24 is going to be a full day workshop. 
+tracks: one for full paper submissions, and one for lightning talks. Like the previous edition, CANOPIE-HPC SC25 is going to be a full day workshop. 
 
-Full paper submissions will receive at least 3 peer reviews in the SC24 
+Full paper submissions will receive at least 3 peer reviews in the SC25 
 submission system on the basis of scientific validity, impact to the field,
 reproducibility, and opportunity for interactive discussion at the workshop.
 The program committee will discuss the submissions and their reviews over a
 conference call moderated by the program chairs; final proceedings will be
-selected by majority vote of the committee. As in all previous years, accepted 
-submissions will be published by the IEEE Computer Society for inclusion in the
-IEEE Digital Library. Artifacts for reproducibility (digital archives of code, 
+selected by majority vote of the committee. As in all previous years, accepted
+paper submissions will be published by the SC proceedings publisher, which for
+SC25 is ACM. Artifacts for reproducibility (digital archives of code, 
 README instructions, images, etc.) will be a significant factor in paper 
 acceptance into the workshop. Further details are available in the 
 "Submission procedure" section below.
@@ -128,22 +127,26 @@ channel _hpc-containers_ to have an opportunity to continue to chat, ask questio
 and make professional connections.
 
 ### Reproducibility plan
-In conjunction with the SC Reproducibility Initiative, submissions are required 
+In conjunction with the SC Reproducibility Initiative, paper submissions are required 
 to provide artifact descriptions as submission appendices, if applicable. 
 Artifacts such as reproduction instructions, source code, build recipes, 
-and/or container images would all be appropriate and considered during peer review. 
+and/or container images would all be appropriate and considered during peer review.
+In case of acceptance, authors are given the option to provide artifact evaluations, if applicable.
 
 
 ### Submission procedure
 
-Accepted manuscripts will be published by the IEEE Computer Society.
+Accepted manuscripts will be published by the ACM.
 
-Upload your paper in PDF format. Papers must use the IEEE conference 
-proceedings template, in two-columns, U.S. letter (8.5″ x 11″) format. 
-The templates for LaTeX and MS Word provided by IEEE eXpress Conference
-Publishing are available for download [here](https://www.ieee.org/conferences/publishing/templates.html).
+Upload your paper in PDF format. Papers must use the ACM 
+proceedings template, in two-columns, U.S. letter (8.5″ x 11″) format.
+LaTeX authors should use the `sigconf` option, while Word authors can use the "Interim Layout".
+The templates for LaTeX and MS Word provided by ACM are available [here](https://www.acm.org/publications/proceedings-template).
 Manuscript length must have a lower limit of 5 pages, including references. 
 There is no upper page limit.
+
+All abstracts are limited to a maximum of 150 words. Lightning talks can provide a 400-word
+extended abstract to better describe the submission.
 
 We enthusiastically welcome original, high-quality submissions within the scope above. 
 These may describe complete studies; work-in-progress research; position papers on 
@@ -172,18 +175,21 @@ In conjunction with the SC Reproducibility Initiative, submissions should be as
 transparent as possible regarding all methods. Submissions are also expected to
 provide reproducibility artifacts such as reproduction instructions, source code, 
 build recipes, and/or container images. These should be included as part of the 
-submission in the form of [Artifact Description/Artifact Evaluation appendices](https://sc24.supercomputing.org/program/papers/reproducibility-appendices-badges/), 
-which adhere to an established format adopted by SC24.
+submission in the form of [Artifact Description/Artifact Evaluation appendices](https://sc25.supercomputing.org/program/papers/reproducibility-appendices-badges/), 
+which adhere to an established format adopted by SC25.
 
 The program committee will discuss the submissions and their reviews and select the 
 program over a video conference meeting. Submissions will be assessed as-is, with 
 no expectation of substantive revision after peer review, though some submissions 
 may be accepted conditional on specified changes ("shepherded").
 
-Rejected paper submissions could be offered the possibility to present as a lightning talk,
+Rejected paper submissions could be offered the possibility to present as a talk,
 at the discretion of the program committee.
 
+_Submission links will be provided in this page as the call for submission opens._
+
+<!--
 Submit your [SC24 CANOPIE-HPC paper](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCSubmission&site=sc24)
 
 Submit your [SC24 CANOPIE-HPC lightning talk](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCLightningTalkSubmission&site=sc24)
-
+//-->
