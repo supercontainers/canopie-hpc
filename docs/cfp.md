@@ -20,8 +20,8 @@ published by ACM.
 
 ### Important Dates
 
-* Submission opens:    June ??, 2025
-* Submission closes (hard deadline- no extensions):    August 15th, 2025
+* Submission opens:    June 5th, 2025
+* Submission closes (hard deadline - no extensions):    August 15th, 2025
 * Papers decisions:    September 5th, 2025
 * Lightning talks decisions:  September 12th, 2025
 * Camera-ready papers deadline:    September 29th, 2025
@@ -138,12 +138,12 @@ In case of acceptance, authors are given the option to provide artifact evaluati
 
 Accepted manuscripts will be published by the ACM.
 
-Upload your paper in PDF format. Papers must use the ACM 
-proceedings template, in two-columns, U.S. letter (8.5″ x 11″) format.
-LaTeX authors should use the `sigconf` option, while Word authors can use the "Interim Layout".
-The templates for LaTeX and MS Word provided by ACM are available [here](https://www.acm.org/publications/proceedings-template).
-Manuscript length must have a lower limit of 5 pages, including references. 
-There is no upper page limit.
+Accepted papers will be published by the ACM.
+Submissions must be in PDF format and use the ACM proceedings template,
+with a two-column layout on U.S. letter-sized paper (8.5″ × 11″).
+LaTeX authors should select the sigconf option, while Word authors should use the "Interim Layout".
+Official ACM templates for both LaTeX and Word are available [here](https://www.acm.org/publications/proceedings-template).
+Manuscripts must be at least 5 pages in length, including references. There is no maximum page limit.
 
 All abstracts are limited to a maximum of 150 words. Lightning talks can provide a 400-word
 extended abstract to better describe the submission.
@@ -186,10 +186,8 @@ may be accepted conditional on specified changes ("shepherded").
 Rejected paper submissions could be offered the possibility to present as a talk,
 at the discretion of the program committee.
 
-_Submission links will be provided in this page as the call for submission opens._
+For any further details or inquiries, contact the workshop organizers at `sc-ws-canopie (at) info.supercomputing.org`
 
-<!--
-Submit your [SC24 CANOPIE-HPC paper](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCSubmission&site=sc24)
+Submit your [SC25 CANOPIE-HPC paper](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCSubmission&site=sc25)
 
-Submit your [SC24 CANOPIE-HPC lightning talk](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCLightningTalkSubmission&site=sc24)
-//-->
+Submit your [SC25 CANOPIE-HPC lightning talk](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCLightningTalkSubmission&site=sc25)
