@@ -8,7 +8,7 @@ hide:
 ### Program chairs:
 
 * Alberto Madonna, Swiss National Supercomputing Centre
-* Claudia Misale, IBM T.J. Watson Research Center
+* Claudia Misale, CoreWeave
 
 * Shane Canon, Lawrence Berkeley National Lab
 * Andrew Younge, Sandia National Labs
