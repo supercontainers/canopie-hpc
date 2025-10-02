@@ -9,7 +9,7 @@ hide:
 
 ## PROGRAM CHAIRS
 * Alberto Madonna, Swiss National Supercomputing Centre
-* Claudia Misale, IBM T.J. Watson Research Center
+* Claudia Misale, CoreWeave
 
 
 ## TECHNICAL PROGRAM COMMITTEE
