@@ -36,7 +36,7 @@ Room 275
         <td>CANOPIE-HPC - Introduction and welcome</td>
         <td>Madonna, Misale, Canon, Younge</td>
         <td></td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/CANOPIE-HPC-SC25-intro.pdf">slides</a></td>
     </tr>
     <tr>
         <td>09:15 AM</td>
@@ -44,7 +44,7 @@ Room 275
         <td>The Convergence of Containers and Kubernetes with HPC and Generative AI</td>
         <td>Gupta, Jackson. Red Hat</td>
         <td>Invited Talk</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/The-Convergence-of-HPC-K8s-and-AI.pdf">slides</a></td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>10:00 AM</td>
@@ -65,7 +65,7 @@ Room 275
         <td>Engine-Agnostic Model Hot-Swapping for Cost-Effective LLM Inference</td>
         <td>Stoyanov (University of Oxford, Red Hat), Spišaková, Reber, Armour, Copik, Bruno</td>
         <td>Paper</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Engine-Agnostic-Model-Hot-Swapping-for-Cost-Effective-LLM-Inference.pdf">slides</a></td>
     </tr>
     <tr>
         <td>11:30 AM</td>
@@ -73,7 +73,7 @@ Room 275
         <td>To Virtualize or Not to Virtualize: Experiences from Building Two Generations of Virtualized Infrastructure for LLM Training</td>
         <td>Mohan, Chen, Chung, Welp, Seelam. IBM Research</td>
         <td>Lightning talk</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/vela-canopie-workshop-2025.pdf">slides</a></td>
     </tr>
     <tr>
         <td>11:40 AM</td>
@@ -81,7 +81,7 @@ Room 275
         <td>Dynamic Topology-Aware Scheduling in HPC Systems with Topograph</td>
         <td>Shmulevich. NVIDIA Corporation</td>
         <td>Lightning talk</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Dynamic-Topology-Aware-Scheduling-in-HPC-Systems-with-Topograph.pdf">slides</a></td>
     </tr>
     <tr>
         <td>11:50 AM</td>
@@ -89,7 +89,7 @@ Room 275
         <td>Evolving Sarus to augment Podman for HPC</td>
         <td>Madonna, Cruz, Lee, Chesi. ETH Zurich, CSCS</td>
         <td>Lightning talk</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Sarus-Podman-CANOPIE-Nov25.pdf">slides</a></td>
     </tr>
     <tr>
         <td>12:00 PM</td>
@@ -97,7 +97,7 @@ Room 275
         <td>Seamless End-to-End Containerized HPC Environments</td>
         <td>Cook, Canon, Lavely, Margala. NERSC, Lawrence Berkeley National Laboratory</td>
         <td>Paper</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Cook-Seamless-end-to-end-containerized-HPC-environments.pdf">slides</a></td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>12:30 PM</td>
@@ -110,7 +110,7 @@ Room 275
         <td>Usability Evaluation of Cloud for HPC Applications</td>
         <td>Sochat, Milroy, Sarkar, Marathe, Patki. Lawrence Livermore National Laboratory</td>
         <td>Paper</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/SC25-CANOPIE-Usability-Study-IM.pdf">slides</a></td>
     </tr>
     <tr>
         <td>2:30 PM</td>
@@ -119,7 +119,7 @@ Room 275
         <td>Bhosale, Chandrasekar, Kale, Kokkila-Schumacher.
 University of Illinois at Urbana-Champaign, IBM Research</td>
         <td>Paper</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Bhosale-CANOPIE-HPC25.pdf">slides</a></td>
     </tr>
     <tr style="background-color:#A9A9A9">
         <td>3:00</td>
@@ -156,7 +156,7 @@ University of Illinois at Urbana-Champaign, IBM Research</td>
         <td>Evaluating HPK for Running Cloud-Native Workloads on Slurm Clusters</td>
         <td>Chazapis, Vassilakis, Petsis, Marazakis, Bilas. Foundation for Research and Technology - Hellas</td>
         <td>Paper</td>
-        <td></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Evaluating-HPK-for-Running-Cloud-Native-Workloads-on-Slurm-Clusters.pdf">slides</a><</td>
     </tr>
     <tr>
         <td>4:50 PM</td>
