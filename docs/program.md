@@ -56,7 +56,7 @@ Room 275
         <td>30 min</td>
         <td>Experience Deploying Containerized GenAI Services at an HPC Center</td>
         <td>Beltre, Ogden, Pedretti. Sandia National Laboratories</td>
-        <td>Paper</td>
+        <td><a href="https://dl.acm.org/doi/10.1145/3731599.3767356">Paper</a></td>
         <td></td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@ Room 275
         <td>30 min</td>
         <td>Engine-Agnostic Model Hot-Swapping for Cost-Effective LLM Inference</td>
         <td>Stoyanov (University of Oxford, Red Hat), Spišaková, Reber, Armour, Copik, Bruno</td>
-        <td>Paper</td>
+        <td><a href="https://dl.acm.org/doi/10.1145/3731599.3767354">Paper</a></td>
         <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Engine-Agnostic-Model-Hot-Swapping-for-Cost-Effective-LLM-Inference.pdf">slides</a></td>
     </tr>
     <tr>
@@ -96,7 +96,7 @@ Room 275
         <td>30 min</td>
         <td>Seamless End-to-End Containerized HPC Environments</td>
         <td>Cook, Canon, Lavely, Margala. NERSC, Lawrence Berkeley National Laboratory</td>
-        <td>Paper</td>
+        <td><a href="https://dl.acm.org/doi/10.1145/3731599.3767355">Paper</a></td>
         <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Cook-Seamless-end-to-end-containerized-HPC-environments.pdf">slides</a></td>
     </tr>
     <tr style="background-color:#A9A9A9">
@@ -109,7 +109,7 @@ Room 275
         <td>30 min</td>
         <td>Usability Evaluation of Cloud for HPC Applications</td>
         <td>Sochat, Milroy, Sarkar, Marathe, Patki. Lawrence Livermore National Laboratory</td>
-        <td>Paper</td>
+        <td><a href="https://dl.acm.org/doi/10.1145/3731599.3767353">Paper</a></td>
         <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/SC25-CANOPIE-Usability-Study-IM.pdf">slides</a></td>
     </tr>
     <tr>
@@ -118,7 +118,7 @@ Room 275
         <td>An Elastic Job Scheduler for HPC Applications on the Cloud</td>
         <td>Bhosale, Chandrasekar, Kale, Kokkila-Schumacher.
 University of Illinois at Urbana-Champaign, IBM Research</td>
-        <td>Paper</td>
+        <td><a href="https://dl.acm.org/doi/10.1145/3731599.3767358">Paper</a></td>
         <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Bhosale-CANOPIE-HPC25.pdf">slides</a></td>
     </tr>
     <tr style="background-color:#A9A9A9">
@@ -147,7 +147,7 @@ University of Illinois at Urbana-Champaign, IBM Research</td>
         <td>30 min</td>
         <td>Towards Enabling Hostile Multi-tenancy in Kubernetes</td>
         <td>Kanso, Oks, Mostafa, Virdi. Microsoft Corporation</td>
-        <td>Paper</td>
+        <td><a href="https://dl.acm.org/doi/10.1145/3731599.3767357">Paper</a></td>
         <td></td>
     </tr>
     <tr>
@@ -155,8 +155,8 @@ University of Illinois at Urbana-Champaign, IBM Research</td>
         <td>30 min</td>
         <td>Evaluating HPK for Running Cloud-Native Workloads on Slurm Clusters</td>
         <td>Chazapis, Vassilakis, Petsis, Marazakis, Bilas. Foundation for Research and Technology - Hellas</td>
-        <td>Paper</td>
-        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Evaluating-HPK-for-Running-Cloud-Native-Workloads-on-Slurm-Clusters.pdf">slides</a><</td>
+        <td><a href="https://dl.acm.org/doi/10.1145/3731599.3767352">Paper</a></td>
+        <td><a href="https://github.com/supercontainers/canopie-hpc/blob/main/docs/slides/Evaluating-HPK-for-Running-Cloud-Native-Workloads-on-Slurm-Clusters.pdf">slides</a></td>
     </tr>
     <tr>
         <td>4:50 PM</td>
