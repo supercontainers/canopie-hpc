@@ -4,19 +4,17 @@ hide:
 ---
 
 ## STEERING COMMITTEE
-* Shane Canon,  Lawrence Berkeley National Laboratory
-* Andrew Younge, Sandia National Laboratories
+* Shane Canon – Lawrence Berkeley National Laboratory
+* Andrew Younge – Sandia National Laboratories
 
 ## PROGRAM CHAIRS
-* Alberto Madonna, ETH Zurich / Swiss National Supercomputing Centre
+* Alberto Madonna, Swiss National Supercomputing Centre
 * Claudia Misale, CoreWeave
 
 
 ## TECHNICAL PROGRAM COMMITTEE
 
-TBD
-
-<!-- * Carlos Eduardo Arango Gutierrez, NVIDIA Corporation
+* Carlos Eduardo Arango Gutierrez, NVIDIA Corporation
 * Abdulrahman Azab, University of Oslo; Sigma2 AS
 * Carlos Jaime Barrios Hernandez, SCALAC, Industrial University of Santander (Colombia)
 * Angel Beltre, Sandia National Laboratories
@@ -35,4 +33,4 @@ TBD
 * Henrik Nortamo, CSC
 * Megan Phinney, Los Alamos National Laboratory
 * Sameer Shende, University of Oregon
-* Mengmei Ye, IBM T.J. Watson Research Center -->
+* Mengmei Ye, IBM T.J. Watson Research Center

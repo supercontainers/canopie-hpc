@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-## 8th workshop on Containers and new orchestration paradigms for isolated environments in HPC (CANOPIE-HPC) at Supercomputing 2026
+## 7th workshop on Containers and new orchestration paradigms for isolated environments in HPC (CANOPIE-HPC) at Supercomputing 2025
 
 ### Program chairs:
 
@@ -18,19 +18,14 @@ other methods to implement user-defined, bring-your-own, or isolated software
 environments. Submissions will be peer-reviewed, and accepted papers will be
 published by ACM.
 
-!!! warning "Work In Progress"
-
-    The dates and content of this page are provisional.
-    Final details will be made available when the Call for Submissions is announced and submissions open.
-
 ### Important Dates
 
-* Submission opens:    June ??, 2026
-* Submission closes (hard deadline - no extensions):    August 14th, 2026
-* Papers decisions:    September 4th, 2026
-* Lightning talks decisions:  September 11th, 2026
-* Camera-ready papers deadline:    September 25th, 2026
-* Workshop date:    November ??, 2026
+* Submission opens:    June 5th, 2025
+* Submission closes (hard deadline - no extensions):    August 15th, 2025
+* Papers decisions:    September 5th, 2025
+* Lightning talks decisions:  September 12th, 2025
+* Camera-ready papers deadline:    September 29th, 2025
+* Workshop date:    November 17th, 2025
 
 **Note: Items are due at 23:59 “anywhere on Earth” on the specified date. Specifically, this is 23:59 IDLW, i.e., UTC–12:00.**
 
@@ -85,20 +80,20 @@ Topics include but are not limited to:
 ### Workshop format
 
 We worked continuously to improve the CANOPIE-HPC program based on feedback 
-from the community. We have made adjustments to the format for SC26 to include
+from the community. We have made adjustments to the format for SC25 to include
 more dynamic and engaging content, in addition to the traditional full paper
 presentations. The content of technical sessions will be driven by the mix of
 accepted submissions curated by the program chairs. We will offer two submission
-tracks: one for full paper submissions, and one for lightning talks. Like the previous edition, CANOPIE-HPC SC26 is going to be a full day workshop. 
+tracks: one for full paper submissions, and one for lightning talks. Like the previous edition, CANOPIE-HPC SC25 is going to be a full day workshop. 
 
-Full paper submissions will receive at least 3 peer reviews in the SC26 
+Full paper submissions will receive at least 3 peer reviews in the SC25 
 submission system on the basis of scientific validity, impact to the field,
 reproducibility, and opportunity for interactive discussion at the workshop.
 The program committee will discuss the submissions and their reviews over a
 conference call moderated by the program chairs; final proceedings will be
 selected by majority vote of the committee. As in all previous years, accepted
 paper submissions will be published by the SC proceedings publisher, which for
-SC26 is ACM. Artifacts for reproducibility (digital archives of code, 
+SC25 is ACM. Artifacts for reproducibility (digital archives of code, 
 README instructions, images, etc.) will be a significant factor in paper 
 acceptance into the workshop. Further details are available in the 
 "Submission procedure" section below.
@@ -180,8 +175,8 @@ In conjunction with the SC Reproducibility Initiative, submissions should be as
 transparent as possible regarding all methods. Submissions are also expected to
 provide reproducibility artifacts such as reproduction instructions, source code, 
 build recipes, and/or container images. These should be included as part of the 
-submission in the form of [Artifact Description/Artifact Evaluation appendices](https://sc26.supercomputing.org/program/papers/reproducibility-appendices-badges/), 
-which adhere to an established format adopted by SC26.
+submission in the form of [Artifact Description/Artifact Evaluation appendices](https://sc25.supercomputing.org/program/papers/reproducibility-appendices-badges/), 
+which adhere to an established format adopted by SC25.
 
 The program committee will discuss the submissions and their reviews and select the 
 program over a video conference meeting. Submissions will be assessed as-is, with 
@@ -193,6 +188,6 @@ at the discretion of the program committee.
 
 For any further details or inquiries, contact the workshop organizers at `sc-ws-canopie (at) info.supercomputing.org`
 
-<!-- Submit your [SC26 CANOPIE-HPC paper](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCSubmission&site=sc26)
+Submit your [SC25 CANOPIE-HPC paper](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCSubmission&site=sc25)
 
-Submit your [SC26 CANOPIE-HPC lightning talk](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCLightningTalkSubmission&site=sc26) -->
+Submit your [SC25 CANOPIE-HPC lightning talk](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCLightningTalkSubmission&site=sc25)

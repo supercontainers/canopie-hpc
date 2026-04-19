@@ -6,16 +6,16 @@ hide:
 
 # Home
 
-## 8th International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC
+## 7th International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC
 
 HPC-Containers Slack channel: [Join Link](http://bit.ly/hpccslack)
 
-CANOPIE HPC Workshop @ SC26
-Novermber ??, 9AM–5:30PM (CST)
+CANOPIE HPC Workshop @ SC25
+Monday, November 17th, 9AM–5:30PM (CST)
 
-Held in conjunction with SC26: The International Conference for High Performance Computing, Networking, Storage, and Analysis.
+Held in conjunction with SC25: The International Conference for High Performance Computing, Networking, Storage, and Analysis.
 
-![SC26](images/sc26_hor_color_black.png){: style="width:318px; margin-right:159px"} ![ACM-DL](https://identitystandards.acm.org/acmdl/ACM-DL-Logo-flat-black-URL-small.JPG)
+![SC25](images/sc25_logo.png){: style="width:318px; margin-right:159px"} ![ACM-DL](https://identitystandards.acm.org/acmdl/ACM-DL-Logo-flat-black-URL-small.JPG)
 
 ### ABOUT
 

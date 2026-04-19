@@ -4,18 +4,16 @@ hide:
   - toc
 ---
 
-## CANOPIE-HPC 2026 Workshop Program
-November ??, 2026 - 9:00AM-5:30PM CST
+## CANOPIE-HPC 2025 Workshop Program
+Monday, November 17th, 2025 - 9:00AM-5:30PM CST
 
-<!-- Room 275 -->
+Room 275
 
 **Note all times listed are in CENTRAL STANDARD TIME (UTC–5)**
 
 ## Agenda
 
-TBD
-
-<!-- <table>
+<table>
 <thead>
   <tr>
     <th>Start</th>
@@ -174,4 +172,4 @@ University of Illinois at Urbana-Champaign, IBM Research</td>
         <td colspan="4">End</td>
     </tr>
 </tbody>
-</table> -->
+</table>
