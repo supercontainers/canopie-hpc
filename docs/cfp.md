@@ -7,7 +7,7 @@ hide:
 
 ### Program chairs:
 
-* Alberto Madonna, Swiss National Supercomputing Centre
+* Alberto Madonna, ETH Zurich / Swiss National Supercomputing Centre
 * Claudia Misale, CoreWeave
 
 * Shane Canon, Lawrence Berkeley National Lab
@@ -18,7 +18,7 @@ other methods to implement user-defined, bring-your-own, or isolated software
 environments. Submissions will be peer-reviewed, and accepted papers will be
 published by ACM.
 
-!!! warning "Work In Progress"
+## Work In Progress
 
     The dates and content of this page are provisional.
     Final details will be made available when the Call for Submissions is announced and submissions open.
