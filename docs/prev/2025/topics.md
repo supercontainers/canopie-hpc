@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 ---
 * Container runtimes, virtual machine (VM) implementations, and other related technologies (e.g. unikernels, WebAssembly)
 * System and architecture portability

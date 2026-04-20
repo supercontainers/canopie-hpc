@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - toc
 ---
 
 ## STEERING COMMITTEE
