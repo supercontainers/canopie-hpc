@@ -15,7 +15,7 @@ Monday, November 17th, 9AM–5:30PM (CST)
 
 Held in conjunction with SC25: The International Conference for High Performance Computing, Networking, Storage, and Analysis.
 
-![SC25](images/sc25_logo.png){: style="width:318px; margin-right:159px"} ![ACM-DL](https://identitystandards.acm.org/acmdl/ACM-DL-Logo-flat-black-URL-small.JPG)
+![SC25](../../images/sc25_logo.png){: style="width:318px; margin-right:159px"} ![ACM-DL](https://identitystandards.acm.org/acmdl/ACM-DL-Logo-flat-black-URL-small.JPG)
 
 ### ABOUT
 
