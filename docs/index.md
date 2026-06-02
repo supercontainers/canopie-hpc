@@ -15,7 +15,7 @@ Novermber ??, 9AM–5:30PM (CST)
 
 Held in conjunction with SC26: The International Conference for High Performance Computing, Networking, Storage, and Analysis.
 
-![SC26](images/sc26_hor_color_black.png){: style="width:318px; margin-right:159px"} ![ACM-DL](https://identitystandards.acm.org/acmdl/ACM-DL-Logo-flat-black-URL-small.JPG)
+![SC26](images/sc26_hor_color_black.png){: style="width:318px; margin-right:159px"} ![IEEEXplore](../../images/ieee_xplore_logo_rgb_150ppi.png)
 
 ### ABOUT
 
