@@ -11,7 +11,7 @@ hide:
 HPC-Containers Slack channel: [Join Link](http://bit.ly/hpccslack)
 
 CANOPIE HPC Workshop @ SC26
-Novermber ??, 9AM–5:30PM (CST)
+November 16, 9AM–5:30PM (CST)
 
 Held in conjunction with SC26: The International Conference for High Performance Computing, Networking, Storage, and Analysis.
 

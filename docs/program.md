@@ -5,7 +5,7 @@ hide:
 ---
 
 ## CANOPIE-HPC 2026 Workshop Program
-November ??, 2026 - 9:00AM-5:30PM CST
+November 16, 2026 - 9:00AM-5:30PM CST
 
 <!-- Room 275 -->
 

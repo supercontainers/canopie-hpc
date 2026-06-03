@@ -30,7 +30,7 @@ published by ACM.
 * Papers decisions:    September 4th, 2026
 * Lightning talks decisions:  September 11th, 2026
 * Camera-ready papers deadline:    September 25th, 2026
-* Workshop date:    November ??, 2026
+* Workshop date:    November 16th, 2026
 
 **Note: Items are due at 23:59 “anywhere on Earth” on the specified date. Specifically, this is 23:59 IDLW, i.e., UTC–12:00.**
 
