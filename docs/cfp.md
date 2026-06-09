@@ -74,7 +74,7 @@ Topics include but are not limited to:
 * Performance and scaling studies with containers and/or VMs
 * Community standards, including OCI 
 * Role of containerization in DevOps (ex: Gitlab CI/CD) 
-* Perspectives on container outreach- convincing native application users/devs to make the jump
+* Perspectives on container outreach - convincing native application users/devs to make the jump
 
 
 ### Workshop format
@@ -92,12 +92,12 @@ submission system on the basis of scientific validity, impact to the field,
 reproducibility, and opportunity for interactive discussion at the workshop.
 The program committee will discuss the submissions and their reviews over a
 conference call moderated by the program chairs; final proceedings will be
-selected by majority vote of the committee. As in all previous years, accepted
-paper submissions will be published by the SC proceedings publisher, which for
-SC26 is IEEE. Artifacts for reproducibility (digital archives of code, 
+selected by majority vote of the committee. Artifacts for reproducibility (digital archives of code, 
 README instructions, images, etc.) will be a significant factor in paper 
 acceptance into the workshop. Further details are available in the 
 "Submission procedure" section below.
+As in all previous years, accepted paper submissions will be published by
+the SC proceedings publisher, which for SC26 is IEEE.
 
 For lightning talks, participants can submit an abstract and an extended 
 abstract that will be reviewed by the program committee. Our lightning talk 
@@ -160,8 +160,8 @@ with appropriate references to the sections in the paper.
 ### Submission procedure
 
 Submissions must be in PDF format and use the IEEE proceedings template, with a two-column layout on U.S. 
-letter-sized paper (8.5″ × 11″). LaTeX authors should select the conference mode.
-Official IEEE templates for both LaTeX and Word are available here.
+letter-sized paper (8.5″ × 11″). LaTeX authors should select the `conference` mode.
+Official IEEE templates for both LaTeX and Word are available [here](https://www.ieee.org/conferences/publishing/templates).
 Manuscripts must be at least 4 pages in length, NOT including references. There is no maximum page limit.
 
 All abstracts are limited to a maximum of 150 words.
@@ -191,7 +191,7 @@ the program over a video conference meeting. Submissions will be assessed as-is,
 with no expectation of substantive revision after peer review, 
 though some submissions may be accepted conditional on specified changes ("shepherded").
 
-<!-- For any further details or inquiries, contact the workshop organizers at `sc-ws-canopie (at) info.supercomputing.org` -->
+For any further details or inquiries, contact the workshop organizers at `sc-ws-canopie (at) info.supercomputing.org`
 
 Submit your [SC26 CANOPIE-HPC paper](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCSubmission&site=sc26)
 
