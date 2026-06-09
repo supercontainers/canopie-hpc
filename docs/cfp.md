@@ -8,7 +8,7 @@ hide:
 ### Program chairs:
 
 * Alberto Madonna, ETH Zurich / Swiss National Supercomputing Centre
-* Claudia Misale, CoreWeave
+* Claudia Misale, CoreWeave, Inc.
 
 * Shane Canon, Lawrence Berkeley National Lab
 * Andrew Younge, Sandia National Labs
@@ -16,23 +16,19 @@ hide:
 CANOPIE-HPC is a workshop focusing on containerization, virtualization, and
 other methods to implement user-defined, bring-your-own, or isolated software
 environments. Submissions will be peer-reviewed, and accepted papers will be
-published by ACM.
+published by IEEE.
 
-## Work In Progress
-
-    The dates and content of this page are provisional.
-    Final details will be made available when the Call for Submissions is announced and submissions open.
 
 ### Important Dates
 
-* Submission opens:    June ??, 2026
+* Submission opens:    June 10, 2026
 * Submission closes (hard deadline - no extensions):    August 14th, 2026
 * Papers decisions:    September 4th, 2026
 * Lightning talks decisions:  September 11th, 2026
 * Camera-ready papers deadline:    September 25th, 2026
 * Workshop date:    November 16th, 2026
 
-**Note: Items are due at 23:59 “anywhere on Earth” on the specified date. Specifically, this is 23:59 IDLW, i.e., UTC–12:00.**
+**Note: Items are due at 23:59 "anywhere on Earth" on the specified date. Specifically, this is 23:59 IDLW, i.e., UTC–12:00.**
 
 ### Overview
 
@@ -57,26 +53,25 @@ and challenges in adopting and optimizing these new approaches for HPC.
 ### Scope
 
 The scope of this workshop is to better understand and improve paradigms
-around containerization, virtualization and orchestration for HPC use cases.
+around containerization, virtualization and orchestration for HPC and AI use cases.
 The most well-known approaches are containers and virtualization, but anything
 to further these goals is welcome.
 
 Topics include but are not limited to:
 
-* Container runtimes, virtual machine (VM) implementations, and other related technologies
-  (e.g. unikernels, WebAssembly)
-* System and architecture portability
-* Scientific reproducibility, including FAIR considerations 
-* Experience reports, perspectives from container framework users, developers,
-  and system administrators HPC in the cloud and/or cloud in the HPC
-* GPUs, accelerators, proprietary interconnects, and other hardware considerations
-* Security considerations when adopting container technologies, including zero trust models
+* Container runtimes, virtual machine (VM) implementations, and other related technologies (e.g. unikernels, WebAssembly)
+* Cloud-native approaches in HPC
 * Container and VM image management and curation, including distribution and archiving
-* Workflows, including interaction between traditional HPC applications 
-  and containerized workflows or edge services
-* Performance and scaling studies with containers and/or VMs
 * Orchestration, scheduling, and/or resource management of jobs and microservices
-* New interaction techniques such as web apps (Jupyter, Rstudio, etc.)
+* Workflows, including interaction between traditional HPC applications and containerized workflows or edge services
+* AI model packaging, reproducibility, and distribution: containers, artifacts, environment portability, and sandboxing for models and agents.
+* AI workloads at scale on cloud-native systems: training, inference, deployment, orchestration, scheduling, autoscaling, and resource management on Kubernetes and hybrid HPC/cloud platforms.
+* Experience reports, perspectives from container framework users, developers, and system administrators
+* Scientific reproducibility, including FAIR considerations
+* GPUs, accelerators, proprietary interconnects, and other hardware considerations
+* System and architecture portability
+* Security considerations when adopting container technologies, including zero trust models
+* Performance and scaling studies with containers and/or VMs
 * Community standards, including OCI 
 * Role of containerization in DevOps (ex: Gitlab CI/CD) 
 * Perspectives on container outreach - convincing native application users/devs to make the jump
@@ -89,20 +84,20 @@ from the community. We have made adjustments to the format for SC26 to include
 more dynamic and engaging content, in addition to the traditional full paper
 presentations. The content of technical sessions will be driven by the mix of
 accepted submissions curated by the program chairs. We will offer two submission
-tracks: one for full paper submissions, and one for lightning talks. Like the previous edition, CANOPIE-HPC SC26 is going to be a full day workshop. 
+tracks: one for full paper submissions, and one for lightning talks.
+Like the previous edition, CANOPIE-HPC SC26 is going to be a full day workshop. 
 
 Full paper submissions will receive at least 3 peer reviews in the SC26 
 submission system on the basis of scientific validity, impact to the field,
 reproducibility, and opportunity for interactive discussion at the workshop.
 The program committee will discuss the submissions and their reviews over a
 conference call moderated by the program chairs; final proceedings will be
-selected by majority vote of the committee. As in all previous years, accepted
-paper submissions will be published by the SC proceedings publisher, which for
-SC26 is ACM. Artifacts for reproducibility (digital archives of code, 
+selected by majority vote of the committee. Artifacts for reproducibility (digital archives of code, 
 README instructions, images, etc.) will be a significant factor in paper 
 acceptance into the workshop. Further details are available in the 
 "Submission procedure" section below.
-
+As in all previous years, accepted paper submissions will be published by
+the SC proceedings publisher, which for SC26 is IEEE.
 
 For lightning talks, participants can submit an abstract and an extended 
 abstract that will be reviewed by the program committee. Our lightning talk 
@@ -111,6 +106,14 @@ pain-points or shortcomings in current container/virtualization technologies,
 and projects that may not be fleshed-out enough to warrant a paper submission. 
 We especially encourage lightning talk submissions from early career participants
 and people who are relatively new to the world of containers/virtualization.
+
+### Conference participation
+
+SC26 is currently planned as an in-person event. At least one author per submission is
+expected to present in-person in case of acceptance. SC26 workshops do not grant complimentary
+registration to speakers, who should register as regular attendees. 
+Remote presentations must be discussed with the SC Workshops chairs and be considered on a
+case-by-case basis in the event of travel restrictions or health concerns, and will have to be explicitly approved.
 
 ### Diversity and inclusivity
 
@@ -132,49 +135,49 @@ channel _hpc-containers_ to have an opportunity to continue to chat, ask questio
 and make professional connections.
 
 ### Reproducibility plan
-In conjunction with the SC Reproducibility Initiative, paper submissions are required 
-to provide artifact descriptions as submission appendices, if applicable. 
-Artifacts such as reproduction instructions, source code, build recipes, 
+
+In conjunction with the SC Reproducibility Initiative, paper submissions are required to provide
+Artifact Descriptions as submission appendices, if applicable.
+Artifacts such as reproduction instructions, source code, build recipes,
 and/or container images would all be appropriate and considered during peer review.
-In case of acceptance, authors are given the option to provide artifact evaluations, if applicable.
+For SC26, there is no page limit on Artifact Descriptions (AD). In case of acceptance,
+authors are given the option to provide Artifact Evaluations (AE), if applicable.
+
+### Use of AI-generated text
+
+SC permits the use of AI tools (e.g., ChatGPT, Grammarly, or other AI assistants) to help improve the submission text.
+The authors should verify whether the results are accurate before submission.
+Authors are completely accountable for the contents of their papers, including content generated
+by AI tools that could be interpreted as plagiarism or scientific misconduct (e.g., fabrication of facts).
+AI tools are not eligible for authorship.
+
+The use of any AI-generated text must be disclosed in the acknowledgments section.
+The sections of the paper that use AI-generated text shall have a citation to the AI system used to generate the text.
+If you use AI tools, you should include an acknowledgment section to disclose the AI assistance
+with appropriate references to the sections in the paper.
 
 
 ### Submission procedure
 
-Accepted manuscripts will be published by the ACM.
+Submissions must be in PDF format and use the IEEE proceedings template, with a two-column layout on U.S. 
+letter-sized paper (8.5″ × 11″). LaTeX authors should select the `conference` mode.
+Official IEEE templates for both LaTeX and Word are available [here](https://www.ieee.org/conferences/publishing/templates).
+Manuscripts must be at least 4 pages in length, NOT including references. There is no maximum page limit.
 
-Accepted papers will be published by the ACM.
-Submissions must be in PDF format and use the ACM proceedings template,
-with a two-column layout on U.S. letter-sized paper (8.5″ × 11″).
-LaTeX authors should select the sigconf option, while Word authors should use the "Interim Layout".
-Official ACM templates for both LaTeX and Word are available [here](https://www.acm.org/publications/proceedings-template).
-Manuscripts must be at least 5 pages in length, including references. There is no maximum page limit.
-
-All abstracts are limited to a maximum of 150 words. Lightning talks can provide a 400-word
-extended abstract to better describe the submission.
-
-We enthusiastically welcome original, high-quality submissions within the scope above. 
-These may describe complete studies; work-in-progress research; position papers on 
-controversial, emerging, or hot topics; state of the practice; or any other manuscript
-the authors believe should be included in the CANOPIE-HPC program. We encourage 
-submissions from academia, industry, government, and/or any other type of institution.
-
-Each manuscript will be assessed using peer review by program committee members 
-(or outside reviewers, if needed) on the basis of scientific validity, impact to 
-the field, reproducibility, inclusivity, and opportunity for useful and lively 
-discussion at the workshop. Review will be single-blind; i.e., reviewers will 
-know authors’ identities, but not vice versa. Authors should not anonymize their 
-manuscripts. Each manuscript submission can expect to have at least 3 reviews and
-will be checked using anti-plagiarism software (see [Plagiarism Guidelines](https://www.ieee.org/publications/rights/index.html#plagiarism-guidelines)).
-
-The use of artificial intelligence AI–generated text in an article shall be disclosed
-in the acknowledgements section of any paper submitted to SC. The sections of the paper
-that use AI-generated text shall have a citation to the AI system used to generate the text. 
-Utilizing Large Language Models (LLMs) is permissible as a general-purpose writing 
-assistance tool. Authors are expected to acknowledge their complete accountability 
-for the contents of their papers, including content generated by LLMs that could be 
-interpreted as plagiarism or scientific misconduct (e.g., fabrication of facts). 
-LLMs are not eligible for authorship.
+All abstracts are limited to a maximum of 150 words.
+Lightning talks can provide a 400-word extended abstract to better describe the submission.
+We enthusiastically welcome original, high-quality submissions within the scope above.
+These may describe complete studies; work-in-progress research; position papers on controversial,
+emerging, or hot topics; state of the practice; or any other manuscript the authors believe
+should be included in the CANOPIE-HPC program. We encourage submissions from academia,
+industry, government, and/or any other type of institution.
+Each manuscript will be assessed using peer review by program committee members (or outside reviewers, if needed)
+on the basis of scientific validity, impact to the field, reproducibility, inclusivity, and opportunity
+for useful and lively discussion at the workshop.
+Review will be single-blind; i.e., reviewers will know authors’ identities, but not vice versa.
+Authors should not anonymize their manuscripts. Each manuscript submission can expect to have at least 3
+reviews and will be checked using anti-plagiarism software
+(see [Plagiarism Guidelines](https://www.ieee.org/publications/rights/index.html#plagiarism-guidelines)).
 
 In conjunction with the SC Reproducibility Initiative, submissions should be as 
 transparent as possible regarding all methods. Submissions are also expected to
@@ -183,16 +186,13 @@ build recipes, and/or container images. These should be included as part of the
 submission in the form of [Artifact Description/Artifact Evaluation appendices](https://sc26.supercomputing.org/program/papers/reproducibility-appendices-badges/), 
 which adhere to an established format adopted by SC26.
 
-The program committee will discuss the submissions and their reviews and select the 
-program over a video conference meeting. Submissions will be assessed as-is, with 
-no expectation of substantive revision after peer review, though some submissions 
-may be accepted conditional on specified changes ("shepherded").
-
-Rejected paper submissions could be offered the possibility to present as a talk,
-at the discretion of the program committee.
+The program committee will discuss the submissions and their reviews and select
+the program over a video conference meeting. Submissions will be assessed as-is, 
+with no expectation of substantive revision after peer review, 
+though some submissions may be accepted conditional on specified changes ("shepherded").
 
 For any further details or inquiries, contact the workshop organizers at `sc-ws-canopie (at) info.supercomputing.org`
 
-<!-- Submit your [SC26 CANOPIE-HPC paper](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCSubmission&site=sc26)
+Submit your [SC26 CANOPIE-HPC paper](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCSubmission&site=sc26)
 
-Submit your [SC26 CANOPIE-HPC lightning talk](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCLightningTalkSubmission&site=sc26) -->
+Submit your [SC26 CANOPIE-HPC lightning talk](https://submissions.supercomputing.org/?page=Submit&id=SCWorkshopCANOPIEHPCLightningTalkSubmission&site=sc26)
