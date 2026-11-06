@@ -99,8 +99,8 @@ Room W181c
     <tr>
         <td>2:00 PM</td>
         <td>40 min</td>
-        <td>The American Science Cloud and the Genesis Mission</td>
-        <td>Oral, Mayes</td>
+        <td>The case for unprivileged containerization in HPC, or: Does software simplicity still matter in 2026?</td>
+        <td>Priedhorsky</td>
         <td>Invited Talk</td>
         <td></td>
     </tr>
@@ -168,8 +168,8 @@ Room W181c
     <tr>
         <td>4:40 PM</td>
         <td>30 min</td>
-        <td>The case for unprivileged containerization in HPC, or: Does software simplicity still matter in 2026?</td>
-        <td>Priedhorsky</td>
+        <td>The American Science Cloud and the Genesis Mission</td>
+        <td>Oral, Mayes</td>
         <td>Invited Talk</td>
         <td></td>
     </tr>
