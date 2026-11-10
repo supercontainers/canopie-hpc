@@ -41,8 +41,8 @@ Room W181c
     <tr>
         <td>09:10 AM</td>
         <td>40 min</td>
-        <td>Simplifying Compute Access for RL Use Cases at Scale</td>
-        <td>Jacobs</td>
+        <td>Orchestrating QCSC Workflows in Containerized HPC Environments</td>
+        <td>Salaria</td>
         <td>Invited Talk</td>
         <td></td>
     </tr>
